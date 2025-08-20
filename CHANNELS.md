@@ -16,4 +16,3 @@
 ![RTV](https://github.com/user-attachments/assets/3964179d-6ce5-49ee-855a-756cf05b9860) | RTV
 ![MNC TV](https://github.com/user-attachments/assets/5332ec63-959a-4006-ad98-509ea497e483) | MNCTV
 <img width="800" height="450" alt="TVRI1" src="https://github.com/user-attachments/assets/ff593d92-9ba9-4c55-8ee1-01c851adf877" /> | TVRI Nasional
-![Momusu](https://github.com/user-attachments/assets/fa3dc528-5b23-4a20-b831-b970102b63f5) | Morning Musume
