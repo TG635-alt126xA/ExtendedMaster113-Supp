@@ -6,6 +6,7 @@
 ![SCTV](https://github.com/user-attachments/assets/e5fb8f63-02fe-4f5e-a00f-99e3acd51c51) | SCTV
 ![RCTI](https://github.com/user-attachments/assets/01246e3d-aaf7-4a96-839a-e7ee86c1c064) | RCTI
 ![GTV](https://github.com/user-attachments/assets/260831d5-ed11-44f8-b180-23309e30af16) | GTV
+![[Imase](https://store.imase-official.com/cdn/shop/files/ogp_imase.png?v=1712642872)](https://store.imase-official.com/cdn/shop/files/ogp_imase.png?v=1712642872) | Imase
 ![MNC TV](https://github.com/user-attachments/assets/5332ec63-959a-4006-ad98-509ea497e483) | MNCTV
 ![ANTV](https://github.com/user-attachments/assets/1056a607-970d-462e-b44b-29bd0ab5f3dc) | ANTV
 ![TVOne](https://github.com/user-attachments/assets/4ee2932f-4c53-4ab1-b418-23c82886922c) | tvOne
@@ -14,3 +15,4 @@
 ![NET TV](https://github.com/user-attachments/assets/e577bfd1-c7c8-4eed-8835-079af3504236) | MDTV
 ![RTV](https://github.com/user-attachments/assets/3964179d-6ce5-49ee-855a-756cf05b9860) | RTV
 <img width="800" height="450" alt="TVRI1" src="https://github.com/user-attachments/assets/ff593d92-9ba9-4c55-8ee1-01c851adf877" /> | TVRI Nasional
+![Tak berjudul775 (1)](https://github.com/user-attachments/assets/fa3dc528-5b23-4a20-b831-b970102b63f5) | Morning Musume
