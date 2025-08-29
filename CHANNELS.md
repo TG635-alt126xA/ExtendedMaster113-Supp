@@ -5,7 +5,7 @@
 12 | Rodja TV
 13 | Al Quran Al Kareem
 14 | U-Channel TV
-15 | DMI TV (formerly Tawaf TV)
+15 | DMI TV
 16 | CNN Indonesia
 17 | Metro TV
 18 | Kompas TV
@@ -16,7 +16,7 @@
 27 | SCTV
 28 | Trans TV
 29 | Trans 7
-30 | Indosiar (code `IVM`)
+30 | Indosiar
 31 | Mentari TV
 32 | ANTV
 33 | Jak TV
@@ -38,8 +38,8 @@
 49 | QWER
 50 | ME:I
 51 | Hello! Project
-52 | Jawa Pos TV (code `JPM`)
+52 | Jawa Pos TV
 53 | Garuda TV
-54 | Sindonews TV (code `MNC News`)
+54 | Sindonews TV
 57 | Jakarta Globe TV
 58 | Toki Pona
