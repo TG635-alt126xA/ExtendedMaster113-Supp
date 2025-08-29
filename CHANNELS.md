@@ -1,45 +1,32 @@
 \# | Channel Name
 -- | --
-10 | IS:SUE
-11 | Daystar TV
-12 | Rodja TV
-13 | Al Quran Al Kareem
-14 | U-Channel TV
-15 | DMI TV
-16 | CNN Indonesia
-17 | Metro TV
-18 | Kompas TV
-19 | iNews TV
-20 | IDX Channel
-21 | Reformed 21
-26 | TVRI Nasional
-27 | SCTV
-28 | Trans TV
-29 | Trans 7
-30 | Indosiar
-31 | Mentari TV
-32 | ANTV
-33 | Jak TV
-34 | RTV
-35 | tvOne
-36 | Moji TV
-37 | DAAI TV
-38 | CNBC Indonesia
-39 | MDTV (formerly NET.)
-40 | Resident Info
-41 | BTV
-42 | VTV
-43 | MosoGourment
-44 | IDTV (now BeritaSatu)
-45 | Nusantara TV
-46 | SinemArt
-47 | JITV
-48 | KTV
-49 | QWER
-50 | ME:I
-51 | Hello! Project
-52 | Jawa Pos TV
-53 | Garuda TV
-54 | Sindonews TV
-57 | Jakarta Globe TV
-58 | Toki Pona
+10 | Trans TV
+11 | Trans 7
+15 | Metro TV
+16 | ANTV
+17 | tvOne
+18 | SCTV
+19 | Indosiar
+20 | Kompas TV
+21 | RCTI
+22 | GTV
+23 | MNCTV
+24 | TVRI Nasional
+25 | Moji TV
+26 | BTV
+27 | NET./MDTV
+28 | RTV
+29 | Jak TV
+30 | JTV
+31 | Bali TV
+32 | Nusantara TV
+33 | IDTV/BeritaSatu
+34 | Garuda TV
+60 | Hello! Project
+61 | Daystar TV
+62 | Rodja TV
+63 | Al Quran Al Kareem
+64 | U-Channel TV
+65 | Tawaf TV/DMI TV
+66 | tvMu
+67 | DAAI TV
