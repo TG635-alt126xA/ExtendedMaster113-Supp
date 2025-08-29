@@ -1,28 +1,37 @@
-??? | ???
+\# | Channel Name
 -- | --
 0 | Channel Info
-99 | TVRI Nasional
-100 | Metro TV
-103 | tvOne
-104 | Trans TV
-105 | Trans 7
-106 | SCTV
-107 | Indosiar
-108 | ANTV
-114 | Kompas TV
-115 | BTV
-116 | Jak TV
-117 | IDTV
-118 | MDTV
-120 | DAAI TV
-122 | Bali TV
-123 | JTV
-124 | Antara TV
-125 | Moji TV
-127 | VTV
-128 | Nusantara TV
-129 | iNews TV
-132 | Jawa Pos TV
-133 | Garuda TV
-137 | Channel Jowo
-200 | RTV
+15 | IDX Channel
+16 | SEA Today (now shutdown)
+17 | Metro TV
+18 | Kompas TV
+19 | iNews TV
+20 | Trans TV
+21 | Trans 7
+22 | TVRI Nasional
+23 | SCTV
+24 | Indosiar
+25 | ANTV
+26 | Vit
+27 | Kagome
+28 | tvOne
+29 | GTV
+30 | Kracie
+31 | Jak TV
+32 | RTV
+33 | CTV Banten
+34 | MDTV (formerly NET.)
+35 | DMI TV
+36 | Moji TV
+37 | DAAI TV
+38 | BTV
+39 | IDTV (now BeritaSatu)
+40 | JITV
+41 | KTV
+42 | Jawa Pos TV
+44 | Garuda TV
+45 | Nusantara TV
+46 | tvMu
+47 | Al Quran Al Kareem
+48 | Sunnah TV
+49 | Jakarta Globe TV
