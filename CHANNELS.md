@@ -15,6 +15,7 @@
 | 121 | HD     | Trans TV               | Local         |
 | 123 | HD     | ANTV                   | Local         |
 | 124 | SD     | CDI                    | Music         |
+| 127 | SD     | Guangdong Channel      | Entertainment |
 | 128 | HD     | tvOne                  | Local         |
 | 133 | SD     | Jak TV                 | Local         |
 | 141 | HD     | BTV                    | Local         |
@@ -45,7 +46,7 @@
 | 265 | HD     | tvN Movies             | Movies        |
 | 266 | SD     | Studio Universal       | Movies        |
 | 267 | SD     | B4U Movies             | Movies        |
-| 342 | SD     | Mentari TV             | Kids          |
+| 342 | HD     | Mentari TV             | Kids          |
 | 343 | HD     | VTV                    | Kids          |
 | 344 | SD     | Planet Fun             | Kids          |
 | 345 | SD     | DEI KIDS TV            | Kids          |
@@ -61,11 +62,11 @@
 | 550 | SD     | Al Quran Al Kareem     | Religion      |
 | 551 | SD     | Salam TV               | Religion      |
 | 552 | SD     | Rodja TV               | Religion      |
-| 555 | SD     | DMI TV (ex-Tawaf TV)   | Religion      |
+| 555 | HD     | DMI TV (ex-Tawaf TV)   | Religion      |
 | 556 | SD     | U Channel              | Religion      |
 | 570 | SD     | HOPE Channel           | Religion      |
-| 571 | SD     | tvMu                   | Religion      |
-| 633 | SD     | CNN International      | News          |
+| 571 | HD     | tvMu                   | Religion      |
+| 633 | HD     | CNN International      | News          |
 | 634 | SD     | Nippon TV              | International |
 | 635 | HD     | NHK World HD           | International |
 | 636 | SD     | Phoenix HK             | International |
@@ -89,13 +90,13 @@
 | 662 | SD     | BBC News               | News          |
 | 663 | SD     | KBS Korea              | International |
 | 664 | HD     | ONE                    | Entertainment |
-| 668 | SD     | tvN                    | Entertainment |
+| 668 | HD     | tvN                    | Entertainment |
 | 669 | SD     | Jakarta Globe          | Local         |
 | 765 | HD     | HITS                   | Entertainment |
 | 766 | HD     | HITS Movies            | Movies        |
 | 770 | HD     | Rock Action           | Entertainment |
 | 771 | 4K     | Momoiro Clover Z       | Entertainment |
-| 772 | SD     | AXN                    | Entertainment |
+| 772 | HD     | AXN                    | Entertainment |
 | 773 | SD     | LAPONE Entertainment   | Entertainment |
 | 774 | SD     | Warner TV              | Entertainment |
 | 775 | SD     | Fashion TV             | Lifestyle     |
@@ -105,7 +106,6 @@
 | 779 | SD     | Hello! Project         | Entertainment |
 | 782 | SD     | Animax                 | Entertainment |
 | 789 | SD     | Shenzhen Channel       | Entertainment |
-| 790 | SD     | Guangdong Channel      | Entertainment |
 | 795 | SD     | Rock Entertainment     | Entertainment |
 | 900 | SD     | TVRI Sport             | Sports        |
 | 903 | SD     | Dubai Sports 3         | Sports        |
