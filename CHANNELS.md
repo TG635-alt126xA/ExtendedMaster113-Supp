@@ -1,19 +1,26 @@
 | LCN | Channel Name           | Category      | Notes/Origin                   |
 | --- | ---------------------- | ------------- | ------------------------------ |
-| 2   | Inhouse TV             | Local         | General / Entertainment        |
 | 100 | IDX Channel            | Local         | Business / Stock Market        |
-| 112 | MDTV (ex-NET.)         | Local         | General / Entertainment        |
-| 115 | Metro TV               | Local         | News / Talk Shows              |
-| 116 | Kompas TV              | Local         | News / Info                    |
-| 117 | iNews                  | Local         | News                           |
+| 101 | Hakkiri Shiyou Ze      | Entertainment | Music / J-Pop                  |
+| 102 | ANGERME                | Entertainment | Music / J-Pop                  |
+| 103 | Inhouse TV             | Local         | General / Entertainment        |
+| 104 | SinemArt               | Local         | Entertainment                  |
+| 105 | Kebumen TV             | Local         | Jateng-7                       |
+| 106 | Satelit TV             | Local         | Jateng-7                       |
+| 108 | MDTV (ex-NET.)         | Local         | General / Entertainment        |
+| 111 | Metro TV               | Local         | News / Talk Shows              |
+| 115 | Kompas TV              | Local         | News / Info                    |
+| 116 | iNews                  | Local         | News                           |
 | 118 | TVRI                   | Local         | National / Public Broadcasting |
 | 123 | ANTV                   | Local         | Entertainment                  |
 | 124 | CDI                    | Entertainment | Music / General                |
 | 125 | QWER                   | Entertainment | Music / K-Pop                  |
 | 126 | ME:I                   | Entertainment | Music / J-Pop                  |
 | 127 | Krayu Channel          | Entertainment | Krayunian Drama                |
-| 128 | tvOne                  | Local         | News / Sports                  |
-| 132 | RTV                    | Local         | Family / Variety               |
+| 128 | Rocket Chicken         | Local         | Fried Chicken                  |
+| 129 | Protein TV             | Local         | Fictional                      |
+| 130 | tvOne                  | Local         | News / Sports                  |
+| 131 | RTV                    | Local         | Family / Variety               |
 | 133 | Jak TV                 | Local         | Regional News / Culture        |
 | 141 | BTV                    | Local         | Variety / Info                 |
 | 143 | BEYOOOOONDS            | Entertainment | Music / J-Pop                  |
