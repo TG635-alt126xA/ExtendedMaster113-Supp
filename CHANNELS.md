@@ -1,97 +1,124 @@
 ## Notes
 * **Bold Text** = Free
 * Normal Text = Premium
-## Inhouse
-* TG635_alt126xA
-## Local
-* **ANTV**
+## Channels List
+* ABC Australia
+* AIM
+* **Al Jazeera English**
+* Aniplus
+* ANTV
+* Arirang
+* **B4U Movies**
+* B4U Music
 * Bali TV
 * Bandung TV
-* Banjar TV
+* BBC Earth
+* BBC Lifestyle
+* BBC News
 * BeritaSatu
-* BMS TV
+* Bloomberg TV
+* **BMS TV**
 * BN CHANNEL
-* BRTV
 * BTV
-* CTV Banten
-* CNBC Indonesia
-* CNN Indonesia
+* CCTV 4
+* **CDI**
+* CETV 1
+* CGTN
+* CGTN Documentary
+* Channel V China
+* CNA
+* CNBC Asia
+* Crema TV
 * DAAI TV
+* Dance TV
+* Daystar TV
+* DEI KIDS TV
+* DMI TV
+* Dreamworks
+* DW English
+* EBS Kids
 * Elshinta TV
+* Euronews
+* Fashion TV
+* France 24
+* FREEДOM
 * Garuda TV
 * Global TV
+* Guangdong Channel
+* H!P
+* HITS
+* HITS Movies
+* HOPE Channel
 * **IDX Channel**
-* **Indosiar**
-* iNews TV
-* Inspira TV
-* Jagantara TV
+* Indosiar
+* Inews TV
+* InPlus Pakistan
 * **Jak TV**
+* JIAJIA Cartoon Channel
 * JITV
 * JPM
 * JTV
-* Jurnal TV
-* Kebumen TV
+* K+
+* Kartoon Channel
+* KBS Korea
+* Kids Zone Plus
 * Kompas TV
+* Krayu Channel
 * KTV
+* Lotus Macau
+* **Love Live!**
+* Love Nature 4K
 * Magna Channel
 * MDTV
-* Metro TV
-* MNC TV
-* Moji TV
-* NET. (formerly Berita Nasional TV)
-* **Nusantara TV**
-* **PKTV**
-* RCTI
-* Riau TV
-* RTV
-* Salira TV
-* Satelit TV
-* SCTV
-* **Trans 7**
-* Trans TV
-* TV Desa
-* **tvOne**
-* **TVRI Nasional**
-## Movies
-* **B4U Movies**
-* tvN Movies
-## Kids
-* DEI KIDS TV
-* Dreamworks
-* Kids TV
-* **Love Live!**
 * Mentari TV
-* Nick Jr
-* **VTV**
-## International
+* Metro TV
+* Moji TV
+* Motorvision+
+* MTV 90s
+* MTV Live
+* NBA TV
+* NHK World Japan
+* Nick Jr.
+* Nickelodeon
 * Nippon TV
-* TF1
-## News
-* **Al Jazeera English**
-## Religion
-* Ajwa TV
-* Daystar TV
-* DMI TV
-* HOPE Channel
-* LIFE
-* Madu TV
-* Muslim TV
-* MQTV
+* **Nusantara TV**
+* osu!
+* Outdoor Channel
 * **Qur'an TV**
-* Rodja TV
-* Salam TV
-* TV9 Nusantara
-* tvMu
-* U Channel
-## Entertainment
-* B4U Music
-* Channel V China
-* **CDI (Channel Dangdut Indonesia)**
-* **Juice=Juice**
+* Qwest TV
+* Reformed 21
 * ROCK Action
 * ROCK Entertainment
-* tvN
-## Sports
+* Rodja TV
+* RT
+* RTV
+* Salam TV
+* SCTV
+* Shenzhen TV
+* SIN PO tv
+* SpaceToon
 * SPOTV
 * SPOTV 2
+* Studio Universal
+* TBN Asia
+* **TF1**
+* Toonmax TV
+* TRT World
+* TV5 Monde
+* TVBS News
+* TVMU
+* TVN
+* TVN Movies
+* tvOne
+* **TVRI Jawa Tengah**
+* **TVRI Nasional**
 * TVRI Sport
+* TVRI World
+* U Channel
+* VOA
+* **VTV**
+* Xing Kong China
+* Youman Cartoon
+* Zee Bioskop
+* Zhejiang TV
+* Zoomoo
