@@ -1,7 +1,7 @@
 ## Channels List
 * Channel Info
 * IDX Channel
-* TV One
+* MDTV
 * Metro TV
 * Kompas TV
 * Inews TV
@@ -11,9 +11,8 @@
 * Trans TV
 * Indosiar
 * ANTV
-* MDTV
+* TV One
 * RTV
-* MNC TV
 * SinemArt
 * Jak TV
 * Moji TV
@@ -24,7 +23,6 @@
 * JITV
 * KTV
 * JPM
-* RCTI
 * Garuda TV
 * Magna Channel
 * BN CHANNEL
