@@ -5,7 +5,7 @@ LCN | Logo | Channel Name
 2 | ![17568155136716791641710864391226](https://github.com/user-attachments/assets/2bcc1dff-42f8-4347-875a-e84a695e2a7a) | Astha TV
 6 | ![17568155943171174989877971067035](https://github.com/user-attachments/assets/cbaa4d37-514f-42eb-92fb-d47f5eccb141) | Garuda TV
 7 | ![17568187714215869168968791567256](https://github.com/user-attachments/assets/5de6b529-2cf5-44c2-857c-3bd2173c558d) | Metro TV
-12 | [![maxresdefault (4)](https://github.com/user-attachments/assets/f0614849-7d31-4493-b90b-58345cc79544)](https://i.ytimg.com/vi/VMzHD4Zl_jA/maxresdefault.jpg?v=68b65f4e) | IS:SUE
+12 | <img width="170" height="90" alt="Tak berjudul806" src="https://github.com/user-attachments/assets/d4d4b90c-7cec-47f8-917b-7a20e6a704ba" /> | SinemArt
 13 | ![17568198582246290339751664506482](https://github.com/user-attachments/assets/6966bd53-32cc-437f-ada0-541dc42fffc2) | ANTV
 14 | ![17568196282622395332405487434783](https://github.com/user-attachments/assets/d24b831c-eb68-47a2-906a-e275aaaa5d07) | tvOne
 15 | ![17568190057473968941685295442635](https://github.com/user-attachments/assets/a0ca8050-583a-4348-b64c-6015f2c2402b) | Kompas TV
