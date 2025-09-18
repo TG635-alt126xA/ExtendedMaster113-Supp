@@ -1,6 +1,1 @@
-## Channels List
-LCN | Logo | Channel Name
--- | -- | --
-\-\- | [![maxresdefault (4)](https://github.com/user-attachments/assets/f0614849-7d31-4493-b90b-58345cc79544)](https://i.ytimg.com/vi/VMzHD4Zl_jA/maxresdefault.jpg?v=68b65f4e) | IS:SUE
-1 | ![17567831798453125019202360074827](https://github.com/user-attachments/assets/c08b96f2-445a-4aeb-84be-508cfc221ab9) | TVRI Nasional
-\-\- | ![17567832096034560882040081515489](https://github.com/user-attachments/assets/0762ffb6-1bf9-4dad-bae0-675372525983) | JAKTV
+## Dens TV Channels List
