@@ -25,13 +25,16 @@
 * Indonesiana TV
 * Channel Jowo
 * Nusantara TV (NTV)
+* iNews
+* Sindonews TV
 ### Premium
 * ANIPLUS HD
-* Nickelodeon HD
-* Nick Jr. HD
 * Animation&Anime TV
+* Hello! Project Station
+* m-line music
 * Rock Entertainment HD
 * Rock Action
+* GTV
 * KBS Korea
 * KBS World
 * K-PLUS HD
@@ -42,17 +45,20 @@
 * Studio Universal HD
 * Lifestyle TV
 * Fashion TV
+* OMAKE CHANNEL
 * TV5MONDE Style HD
 * Crema TV
 * Qwest TV
 * Stringray Classica
-* MTV Live HD
+* Perfume Japan
 * Dance TV
-* SPOTV
-* SPOTV 2
+* DANCESOUL
+* Momoiro Clover Z Channel
 * Motorvision+
 * EM113 Sport 1
 * EM113 Sport 2
+* SPOTV
+* SPOTV 2
 ### International
 * CNA
 * NHK WORLD-JAPAN
@@ -73,20 +79,3 @@
 * Quran TV
 * Sunna TV
 * Daystar TV
-### Inactive Channels
-* tvOne
-* Kompas TV
-* ANTV
-* My Kidz HD
-* KIX HD
-* Celestial Movies
-* CCM
-* My Cinema Asia
-* Thrill
-* My Cinema
-* My Cinema Europe HD
-* My Family Channel
-* Fight Sports
-* W-Sport
-* Motor Racing
-* Horizon Sports
