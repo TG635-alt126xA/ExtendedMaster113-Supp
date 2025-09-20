@@ -29,7 +29,7 @@
 * ANIPLUS HD
 * My Kidz HD
 * SinemArt
-* LAPONE Entertainment TV
+* Studio Universal HD
 * Rock Entertainment HD
 * Rock Action
 * *KIX HD*
@@ -45,6 +45,7 @@
 * *My Cinema*
 * My Cinema Europe HD
 * *My Family Channel*
+* LAPONE Entertainment TV
 * TV5MONDE Style HD
 * Crema TV
 * Qwest TV
