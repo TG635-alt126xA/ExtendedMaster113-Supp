@@ -1,69 +1,67 @@
-## Dens TV Channels List (Extended)
+## Channels List
 ### Local
-* Live Streaming 1
-* DensPlay
-* DensLife&Style
-* DensFood Channel
-* DensShowbiz
-* DensKnowledge
-* Ramadhan Channel
-* Metro TV
-* BTV
-* Berita Satu
-* MDTV
-* RTV
-* Elshinta TV
-* Magna Channel
-* BN Channel
-* TVRI Sport
-* TVRI Nasional
-* JakTV
-* RodjaTV
-* Garuda TV
-* DAAI TV
-* Indonesiana TV
-* Channel Jowo
-* Nusantara TV (NTV)
-* iNews
-* Sindonews TV
-### Premium
-* ANIPLUS HD
-* My Kidz HD
-* Animation&Anime TV
-* GTV
-* Rock Entertainment HD
-* Rock Action
-* KBS Korea
-* KBS World
-* K-PLUS HD
+* Trans TV HD (inactive)
+* Trans 7 HD (inactive)
+* Metro TV HD
+* tvOne HD
+* Kompas TV HD
+* iNews HD
+* SCTV HD
+* Indosiar HD
+* RCTI HD
+* GTV HD
+* ANTV HD
+* MDTV HD
+* RTV HD
+* MNCTV HD
+* TVRI Nasional HD
+* Jak TV
+* BMS TV
+* Rodja TV
+* Moji TV HD
+* DAAI TV HD
+* BTV HD
+* BeritaSatu HD
+* Nusantara TV HD
+### Sports
+* TVRI Sport HD
+* SPOTV HD
+* SPOTV 2 HD
+* Champions TV 1 HD
+* Champions TV 2 HD
+* Champions TV 3 HD
+* Champions TV 5 HD
+* Champions TV 6 HD
+### Entertainment
 * tvN HD
-* tvN Movies HD
-* My Cinema Asia
-* My Cinema Europe HD
-* TV5MONDE Style HD
-* Crema TV
-* Qwest TV
-* Stringray Classica
-* Hello! Project
-* Dance TV
-* Motorvision+
+* Rock Entertainment HD
+* Haruka Tomatsu HD
+* Rock Action HD
+* Arirang HD
+* Kyassaba Television
+* Elshinta TV
+* Magna Channel HD
+### Lifestyle
+* Lifestyle Television
+* Fashion TV
+* TV5Monde Style HD
+* BBC Lifestyle HD
+### Knowledge
+* BBC Earth HD
+* CGTN Documentary HD
+### Kids
+* Animation&Anime TV
+* Mentari TV HD
+* VTV HD
+### News
+* CNA HD
+* Al Jazeera English HD
+* BBC News HD
+* CGTN HD
+* Bloomberg TV HD
 ### International
-* CNA
-* NHK WORLD-JAPAN
-* Nippon TV
-* Al Jazeera English
-* TRT World
-* Russia Today (RT)
-* WION
-* FREEDOM
-* Al Jazeera Arabic
-* CCTV-4
-* France 24
-* TV5MONDE ASIE
-* DW-TV
-* DIM TV
-* TBN
-* CGTN Documentary
-* Quran TV
-* Sunna TV
-* Daystar TV
+* ABC Australia HD
+* France 24 English HD
+* NHK World Japan HD
+* TV5Monde Asie HD
+* DW HD
