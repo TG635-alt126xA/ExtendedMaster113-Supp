@@ -27,7 +27,7 @@
 * ANIPLUS HD
 * My Kidz HD
 * SCTV HD
-* Indosiar Blora
+* Indosiar HD
 * Rock Entertainment HD
 * Rock Action
 * Studio Universal HD
@@ -45,11 +45,12 @@
 * Stringray Classica
 * Dance TV
 * fripSide
-* Trans7 Blora
+* Trans7 SD
 * Motorvision+
 ### International
 * CNA
 * NHK WORLD-JAPAN
+* NIPP0N TV
 * Al Jazeera English
 * TRT World
 * Russia Today (RT)
