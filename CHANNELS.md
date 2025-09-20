@@ -1,19 +1,22 @@
 ## Dens TV Channels List (Extended)
+### Notes
+* Normal Text = Active Channels
+* *Italic Text* = Inactive Channels
 ### Local
 * Live Streaming 1
-* Dens Play
-* Dens Lifestyle
-* Dens Food Channel
-* Dens Showbiz
-* Dens Knowledge
+* DensPlay
+* DensLife&Style
+* DensFood Channel
+* DensShowbiz
+* DensKnowledge
 * Ramadhan Channel
 * Metro TV
-* tvOne (inactive)
-* Kompas TV (inactive)
+* *tvOne*
+* *Kompas TV*
 * BTV
-* IDTV (now BeritaSatu)
-* ANTV (inactive)
-* NET. (now MDTV)
+* Berita Satu
+* *ANTV*
+* MDTV
 * Garuda TV
 * RTV
 * Elshinta TV
@@ -21,9 +24,55 @@
 * BN Channel
 * TVRI Sport
 * TVRI Nasional
-* Jak TV
-* Rodja TV
+* JakTV
+* RodjaTV
 * DAAI TV
 * Indonesiana TV
 * Channel Jowo
-* Nusantara TV
+* Nusantara TV (NTV)
+### Premium
+* ANIPLUS HD
+* My Kidz HD
+* Rock Entertainment HD
+* Rock Action
+* *KIX*
+* KBS Korea
+* KBS World
+* tvN HD
+* tvN Movies HD
+* *Celestial Movies*
+* *CCM*
+* My Cinema Asia
+* *Thrill*
+* *My Cinema*
+* My Cinema Europe HD
+* *My Family Channel*
+* TV5MONDE Style HD
+* Crema TV
+* Qwest TV
+* Stringray Classica
+* Dance TV
+* *Deluxe Lounge HD*
+* M-line Music
+* *Fight Sports*
+* Motovision+
+* *W-Sport*
+### International
+* CNA
+* NHK WORLD-JAPAN
+* Al Jazeera English
+* TRT World
+* Russia Today (RT)
+* WION
+* FREEDOM
+* Al Jazeera Arabic
+* CCTV-4
+* France 24
+* TV5MONDE ASIE
+* DW-TV
+* DIM TV
+* TBN
+* CGTN Documentary
+* Quran TV
+* Sunna TV
+* Daystar TV
