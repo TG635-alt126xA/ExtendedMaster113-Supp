@@ -8,6 +8,7 @@
 * DensKnowledge
 * Ramadhan Channel
 * EM113 TV
+* Garuda TV
 * Metro TV
 * BTV
 * Berita Satu
@@ -20,7 +21,7 @@
 * TVRI Nasional
 * JakTV
 * RodjaTV
-* Garuda TV
+* Nana Suharna TV
 * DAAI TV
 * Indonesiana TV
 * Channel Jowo
