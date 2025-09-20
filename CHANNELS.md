@@ -12,45 +12,51 @@
 * Berita Satu
 * MDTV
 * RTV
+* EM113 TV
 * Elshinta TV
 * Magna Channel
+* BN Channel
 * TVRI Sport
 * TVRI Nasional
 * JakTV
 * RodjaTV
-* Moji TV
+* Garuda TV
 * DAAI TV
 * Indonesiana TV
 * Channel Jowo
 * Nusantara TV (NTV)
 ### Premium
 * ANIPLUS HD
-* My Kidz HD
-* SCTV HD
-* Indosiar HD
+* Nickelodeon HD
+* Nick Jr. HD
+* Animation&Anime TV
 * Rock Entertainment HD
 * Rock Action
-* Studio Universal HD
 * KBS Korea
 * KBS World
 * K-PLUS HD
 * tvN HD
 * tvN Movies HD
-* My Cinema Asia
-* My Cinema Europe HD
-* LAPONE Entertainment TV
+* Kyassaba TV
+* TV Tokyo
+* Studio Universal HD
+* Lifestyle TV
+* Fashion TV
 * TV5MONDE Style HD
 * Crema TV
 * Qwest TV
 * Stringray Classica
+* MTV Live HD
 * Dance TV
-* fripSide
-* Trans7 SD
+* SPOTV
+* SPOTV 2
 * Motorvision+
+* EM113 Sport 1
+* EM113 Sport 2
 ### International
 * CNA
 * NHK WORLD-JAPAN
-* NIPP0N TV
+* Nippon TV
 * Al Jazeera English
 * TRT World
 * Russia Today (RT)
@@ -71,11 +77,14 @@
 * tvOne
 * Kompas TV
 * ANTV
+* My Kidz HD
 * KIX HD
 * Celestial Movies
 * CCM
+* My Cinema Asia
 * Thrill
 * My Cinema
+* My Cinema Europe HD
 * My Family Channel
 * Fight Sports
 * W-Sport
