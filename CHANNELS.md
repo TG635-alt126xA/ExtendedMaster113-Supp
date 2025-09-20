@@ -1,7 +1,4 @@
 ## Dens TV Channels List (Extended)
-### Notes
-* Normal Text = Active Channels
-* *Italic Text* = Inactive Channels
 ### Local
 * Live Streaming 1
 * DensPlay
@@ -21,6 +18,7 @@
 * TVRI Nasional
 * JakTV
 * RodjaTV
+* Moji TV
 * DAAI TV
 * Indonesiana TV
 * Channel Jowo
@@ -28,34 +26,27 @@
 ### Premium
 * ANIPLUS HD
 * My Kidz HD
-* SinemArt
-* Studio Universal HD
+* SCTV (Nasional)
+* Indosiar (Blora)
 * Rock Entertainment HD
 * Rock Action
-* *KIX HD*
+* Studio Universal HD
 * KBS Korea
 * KBS World
 * K-PLUS HD
 * tvN HD
 * tvN Movies HD
-* *Celestial Movies*
-* *CCM*
 * My Cinema Asia
-* *Thrill*
-* *My Cinema*
 * My Cinema Europe HD
-* *My Family Channel*
 * LAPONE Entertainment TV
 * TV5MONDE Style HD
 * Crema TV
 * Qwest TV
 * Stringray Classica
-* fripSide
 * Dance TV
-* *Deluxe Lounge HD*
-* *Fight Sports*
+* fripSide
+* Trans7 (Blora)
 * Motorvision+
-* *W-Sport*
 ### International
 * CNA
 * NHK WORLD-JAPAN
@@ -75,6 +66,17 @@
 * Quran TV
 * Sunna TV
 * Daystar TV
-## Removed Channels
+## Inactive Channels
+* tvOne
+* Kompas TV
+* ANTV
+* KIX HD
+* Celestial Movies
+* CCM
+* Thrill
+* My Cinema
+* My Family Channel
+* Fight Sports
+* W-Sport
 * Motor Racing
 * Horizon Sports
