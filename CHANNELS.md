@@ -7,12 +7,12 @@
 * DensShowbiz
 * DensKnowledge
 * Ramadhan Channel
+* EM113 TV
 * Metro TV
 * BTV
 * Berita Satu
 * MDTV
 * RTV
-* EM113 TV
 * Elshinta TV
 * Magna Channel
 * BN Channel
@@ -57,8 +57,6 @@
 * Motorvision+
 * EM113 Sport 1
 * EM113 Sport 2
-* SPOTV
-* SPOTV 2
 ### International
 * CNA
 * NHK WORLD-JAPAN
