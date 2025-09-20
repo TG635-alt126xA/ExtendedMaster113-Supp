@@ -17,11 +17,9 @@
 * Berita Satu
 * *ANTV*
 * MDTV
-* Garuda TV
 * RTV
 * Elshinta TV
 * Magna Channel
-* BN Channel
 * TVRI Sport
 * TVRI Nasional
 * JakTV
@@ -33,9 +31,11 @@
 ### Premium
 * ANIPLUS HD
 * My Kidz HD
+* Animation&Anime TV
+* UP-FRONT CHANNEL
 * Rock Entertainment HD
 * Rock Action
-* *KIX*
+* *KIX HD*
 * KBS Korea
 * KBS World
 * tvN HD
@@ -47,15 +47,20 @@
 * *My Cinema*
 * My Cinema Europe HD
 * *My Family Channel*
+* OMAKE CHANNEL
 * TV5MONDE Style HD
 * Crema TV
 * Qwest TV
 * Stringray Classica
+* *Apukomi (H!P)*
 * Dance TV
+* Momoiro Clover Z Channel
 * *Deluxe Lounge HD*
-* M-line Music
+* fripSide
+* H!P Station
+* m-line music
 * *Fight Sports*
-* Motovision+
+* Motorvision+
 * *W-Sport*
 ### International
 * CNA
@@ -76,3 +81,6 @@
 * Quran TV
 * Sunna TV
 * Daystar TV
+## Removed Channels
+* Motor Racing
+* Horizon Sports
