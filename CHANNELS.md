@@ -11,11 +11,8 @@
 * DensKnowledge
 * Ramadhan Channel
 * Metro TV
-* *tvOne*
-* *Kompas TV*
 * BTV
 * Berita Satu
-* *ANTV*
 * MDTV
 * RTV
 * Elshinta TV
@@ -31,13 +28,14 @@
 ### Premium
 * ANIPLUS HD
 * My Kidz HD
-* Animation&Anime TV
-* UP-FRONT CHANNEL
+* SinemArt
+* LAPONE Entertainment TV
 * Rock Entertainment HD
 * Rock Action
 * *KIX HD*
 * KBS Korea
 * KBS World
+* K-PLUS HD
 * tvN HD
 * tvN Movies HD
 * *Celestial Movies*
@@ -47,18 +45,13 @@
 * *My Cinema*
 * My Cinema Europe HD
 * *My Family Channel*
-* OMAKE CHANNEL
 * TV5MONDE Style HD
 * Crema TV
 * Qwest TV
 * Stringray Classica
-* *Apukomi (H!P)*
-* Dance TV
-* Momoiro Clover Z Channel
-* *Deluxe Lounge HD*
 * fripSide
-* H!P Station
-* m-line music
+* Dance TV
+* *Deluxe Lounge HD*
 * *Fight Sports*
 * Motorvision+
 * *W-Sport*
