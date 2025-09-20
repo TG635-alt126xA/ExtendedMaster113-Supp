@@ -26,8 +26,8 @@
 ### Premium
 * ANIPLUS HD
 * My Kidz HD
-* SCTV (Nasional)
-* Indosiar (Blora)
+* SCTV HD
+* Indosiar Blora
 * Rock Entertainment HD
 * Rock Action
 * Studio Universal HD
@@ -45,7 +45,7 @@
 * Stringray Classica
 * Dance TV
 * fripSide
-* Trans7 (Blora)
+* Trans7 Blora
 * Motorvision+
 ### International
 * CNA
