@@ -7,8 +7,6 @@
 * DensShowbiz
 * DensKnowledge
 * Ramadhan Channel
-* EM113 TV
-* Garuda TV
 * Metro TV
 * BTV
 * Berita Satu
@@ -21,7 +19,7 @@
 * TVRI Nasional
 * JakTV
 * RodjaTV
-* Nana Suharna TV
+* Garuda TV
 * DAAI TV
 * Indonesiana TV
 * Channel Jowo
@@ -30,34 +28,25 @@
 * Sindonews TV
 ### Premium
 * ANIPLUS HD
+* My Kidz HD
 * Animation&Anime TV
-* Hello! Project Station
-* m-line music
+* GTV
 * Rock Entertainment HD
 * Rock Action
-* GTV
 * KBS Korea
 * KBS World
 * K-PLUS HD
 * tvN HD
 * tvN Movies HD
-* Kyassaba TV
-* TV Tokyo
-* Studio Universal HD
-* Lifestyle TV
-* Fashion TV
-* OMAKE CHANNEL
+* My Cinema Asia
+* My Cinema Europe HD
 * TV5MONDE Style HD
 * Crema TV
 * Qwest TV
 * Stringray Classica
-* Perfume Japan
+* Hello! Project
 * Dance TV
-* DANCESOUL
-* Momoiro Clover Z Channel
 * Motorvision+
-* EM113 Sport 1
-* EM113 Sport 2
 ### International
 * CNA
 * NHK WORLD-JAPAN
