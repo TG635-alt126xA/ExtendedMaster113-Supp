@@ -1,28 +1,16 @@
 ## Channels List
 ### Local
-* Trans TV HD (inactive)
-* Trans 7 HD (inactive)
-* Metro TV HD
-* tvOne HD
-* Kompas TV HD
-* iNews HD
+* TVRI Nasional HD
 * SCTV HD
 * Indosiar HD
-* RCTI HD
-* GTV HD
+* RTV HD
+* Moji TV HD
 * ANTV HD
 * MDTV HD
-* RTV HD
-* MNCTV HD
-* TVRI Nasional HD
-* Jak TV
-* BMS TV
-* Rodja TV
-* Moji TV HD
-* DAAI TV HD
-* BTV HD
-* BeritaSatu HD
-* Nusantara TV HD
+* VTV HD
+### Movies
+* Studio Universal HD
+* Rock Action HD
 ### Sports
 * TVRI Sport HD
 * SPOTV HD
@@ -36,7 +24,8 @@
 * tvN HD
 * Rock Entertainment HD
 * Haruka Tomatsu HD
-* Rock Action HD
+* Momoiro Clover Z 4K
+* TV5Monde Asie HD
 * Arirang HD
 * Kyassaba Television
 * Elshinta TV
@@ -44,24 +33,28 @@
 ### Lifestyle
 * Lifestyle Television
 * Fashion TV
+* Global Trekker HD
 * TV5Monde Style HD
-* BBC Lifestyle HD
 ### Knowledge
-* BBC Earth HD
+* Outdoor Channel HD
+* Love Nature 4K
 * CGTN Documentary HD
 ### Kids
 * Animation&Anime TV
-* Mentari TV HD
-* VTV HD
+* Zoomoo HD
+* Dreamworks HD
 ### News
-* CNA HD
+* tvOne HD
+* Kompas TV HD
+* Metro TV HD
+* BTV HD
 * Al Jazeera English HD
-* BBC News HD
-* CGTN HD
-* Bloomberg TV HD
-### International
-* ABC Australia HD
-* France 24 English HD
-* NHK World Japan HD
-* TV5Monde Asie HD
+* CNA HD
 * DW HD
+* Euronews HD
+* ABC Australia HD
+* Nusantara TV HD
+* NHK World Japan HD
+* Bloomberg TV HD
+* CNBC Asia HD
+* BeritaSatu HD
