@@ -66,7 +66,7 @@
 * Quran TV
 * Sunna TV
 * Daystar TV
-## Inactive Channels
+### Inactive Channels
 * tvOne
 * Kompas TV
 * ANTV
