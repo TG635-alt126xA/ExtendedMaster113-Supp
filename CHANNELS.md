@@ -61,18 +61,20 @@
 * Cartoon Network HD
 * Cartoon TV
 * Cartoon TV Classics
-* Cartoon Premium
+* Cartoon TV Premium
 * Cartoonito HD
 * CBeebies
 * DEI KIDS TV
 * Disney Jr. Japan
 * Dreamworks HD
 * EBS Kids
+* GaruGaku
 * JIAJIA Cartoon Channel
 * Kartoon Channel HD
 * Kids Station Japan
 * Kids TV HD
 * Kidzone+ Pakistan
+* Love Live!
 * Mentari TV HD
 * Nickelodeon HD
 * Nick Jr. HD
@@ -88,6 +90,7 @@
 ### Lifestyle
 * AFN HD
 * BBC Lifestyle HD
+* Celebrities TV
 * Crema TV
 * Dens Food Channel
 * Dens Play
@@ -108,6 +111,7 @@
 * ABS-CBN Entertainment
 * AXN HD
 * B4U Music
+* Channel Jowo (SD/HD)
 * Channel V China
 * Crime+Investigation HD
 * Dens Showbiz
@@ -117,6 +121,7 @@
 * fripSide Channel
 * GEM HD (inactive)
 * Guangdong TV
+* Hanacaraka TV
 * Haruka Tomatsu (HD/4K)
 * HITS HD
 * HITS Now HD
@@ -130,6 +135,7 @@
 * MTV LIVE HD
 * Nanchatte TV
 * ONE HD
+* One TV
 * PassCode TV
 * Perfume Japan
 * QWER (HD/4K)
