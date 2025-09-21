@@ -1,60 +1,73 @@
 ## Channels List
-### Local
-* TVRI Nasional HD
-* SCTV HD
-* Indosiar HD
-* RTV HD
-* Moji TV HD
-* ANTV HD
 * MDTV HD
-* VTV HD
-### Movies
+* Hello! Project
+* Metro TV HD
+* Kompas TV HD
+* TVRI Nasional HD
+* ANTV HD
+* TLC HD
+* tvOne HD
+* RTV HD
+* Jak TV
+* Garuda TV HD
+* BTV HD
+* BeritaSatu HD
+* EM113 TV
+* HBO HD
+* HBO Hits HD
+* HBO Family HD
+* HBO Signature HD
+* Cinemax HD
 * Studio Universal HD
-* Rock Action HD
-### Sports
-* TVRI Sport HD
-* SPOTV HD
-* SPOTV 2 HD
-* Champions TV 1 HD
-* Champions TV 2 HD
-* Champions TV 3 HD
-* Champions TV 5 HD
-* Champions TV 6 HD
-### Entertainment
+* Celestial Movies HD
+* Thrill
+* KIX HD
+* ONE HD
 * tvN HD
 * Rock Entertainment HD
-* Haruka Tomatsu HD
-* Momoiro Clover Z 4K
+* GEM HD (inactive)
+* Rock Action HD
+* AXN HD
 * TV5Monde Asie HD
 * Arirang HD
+* CCM HD
 * Kyassaba Television
 * Elshinta TV
+* TV Tokyo
 * Magna Channel HD
-### Lifestyle
+* Haruka Tomatsu HD
+* Momoiro Clover Z 4K
+* TV5Monde Style HD
+* AFN HD
+* HGTV HD
 * Lifestyle Television
 * Fashion TV
 * Global Trekker HD
-* TV5Monde Style HD
-### Knowledge
-* Outdoor Channel HD
+* Discovery HD
+* Animal Planet HD
 * Love Nature 4K
 * CGTN Documentary HD
-### Kids
 * Animation&Anime TV
+* Animax HD
 * Zoomoo HD
+* Cartoon Network HD
 * Dreamworks HD
-### News
-* tvOne HD
-* Kompas TV HD
-* Metro TV HD
-* BTV HD
 * Al Jazeera English HD
 * CNA HD
-* DW HD
+* CNN HD
 * Euronews HD
 * ABC Australia HD
 * Nusantara TV HD
 * NHK World Japan HD
 * Bloomberg TV HD
 * CNBC Asia HD
-* BeritaSatu HD
+* DW HD
+* TVRI Sport HD
+* Eurosport HD
+* SPOTV HD
+* SPOTV 2 HD
+* Daystar TV
+* Rodja TV
+* DAAI TV
+* Quran TV
+* Sunna TV
