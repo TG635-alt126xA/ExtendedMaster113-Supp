@@ -1,61 +1,93 @@
 ## Channels List
 * Al Jazeera Arabic
-* Al Jazeera English HD
-* ANGERME
-* Animax HD
-* AniPlus HD
+* Al Jazeera English
+* Animax
+* AniPlus
 * ANTV
 * Arirang TV
-* AXN HD
+* AXN
+* beIN Sports 1
+* beIN Sports 2
+* beIN Sports 3
 * Bloomberg TV
 * BTV
+* Cartoon Network
+* Cartoonito
+* CGTN Documentary
 * Channel News Asia
+* Cinemax
+* CNBC Indonesia
+* CNN Indonesia
 * DAAI TV
 * Disney Jr. Japan
+* Dreamworks
 * DW TV
 * Elshinta TV
 * EM113 TV
 * Euronews
 * FOX Japan (Dlife Japan)
 * France 24
+* Galaxy
+* Galaxy Premium
 * Garuda TV
-* GEM HD (inactive)
-* Global TV
-* Haruka Tomatsu HD
-* Hello! Project Station
+* GEM (inactive)
+* GTV
+* Haruka Tomatsu
+* HBO
+* HBO Hits
+* HBO Family
+* HBO Signature
+* Hello! Project
+* HITS
+* HITS Movies
+* HITS Now
 * IDTV (BeritaSatu)
+* IMC
 * Indosiar
-* iNews TV
+* iNews
 * Jak TV
 * JPM TV
 * JTV
-* K+ HD
+* K+
+* KBS Korea
+* KBS World
 * Kompas TV
 * Lejel Home Shopping
+* Lifetime
+* MDTV
 * Mentari TV
 * Metro TV
-* m-line music
 * MNCTV
 * Moji TV
-* Morning Musume
-* NET. (MDTV)
 * Nippon TV
 * Nusantara TV
-* ONE HD
+* ONE
+* Quran TV
 * RCTI
+* Rock Action
+* Rock Entertainment
 * Rodja TV
 * RTV
 * SCTV
-* SPOTV
-* SPOTV 2
+* SEA Today (inactive)
+* Sindonews TV
+* SpoTV
+* SpoTV 2
+* Studio Universal
+* Tawaf TV (DMI TV)
+* Tempel TV
 * TF1
-* Trans 7
+* Treehouse TV
 * Trans TV
+* Trans7
+* Tritih Lor TV
 * tvMu
-* tvN HD
-* tvN Movies HD
+* tvN
+* tvN Movies
 * tvOne
 * TV Tokyo
 * TVRI Nasional
-* TVRI Sport HD
+* TVRI Sport
+* VTV
+* YTV
 * Z Bioskop
