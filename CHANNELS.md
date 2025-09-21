@@ -1,16 +1,12 @@
 ## Channels List
 ### Basic Channels
-* DENS Play
-* DENS Food Channel
 * DENS Showbiz
-* Zihuzhe
-* BTV HD
+* DENS Food Channel
+* DENS Play
 * MDTV HD
-* BEYOOOOONDS
 * Metro TV HD
 * tvOne HD
 * Kompas TV HD
-* BeritaSatu HD
 * TVRI Sport HD
 * TVRI Nasional HD
 * SCTV HD
@@ -19,72 +15,71 @@
 * InPlus Pakistan
 * AXN HD
 * Moji TV HD
-* EM113 TV
-* Hello! Project
 * Studio Universal HD
 * Celestial Movies HD
 * Thrill
 * KIX HD
-* Morning Musume
+* Sindonews TV
 * Warner TV HD
 * ONE HD
 * tvN HD
 * Rock Entertainment HD
-* OCHA NORMA
+* BTV HD
 * Rock Action HD
 * TV5Monde Asie HD
 * Arirang HD
 * CCM HD
-* imase
-* Nippon TV HD
-* Kyassaba Television
+* BeritaSatu HD
+* DIM TV
+* Xing Kong China
 * Jak TV
 * Elshinta TV
 * TV Tokyo
 * Magna Channel HD
 * Lifetime HD
-* Hello! Project Station
-* GEM HD (inactive)
-* m-line music
+* RCTI HD
+* GTV HD
+* MNCTV HD
 * Haruka Tomatsu HD
 * MTV Live HD
 * TV5Monde Style HD
-* OMAKE CHANNEL
+* BBC Lifestyle HD
+* GEM HD (inactive)
 * AFN HD
 * HGTV HD
-* Lifestyle Television
+* Channel V China
 * Fashion TV
 * Global Trekker HD
 * TLC HD
-* Momoiro Clover Z 4K
-* Futrim TV
-* Abinzy TV
+* B4U Movie
+* B4U Music
+* Shenzhen TV
 * Garuda TV HD
-* ANGERME
+* Nippon TV HD
 * RTV HD
 * Discovery HD
+* BBC Earth HD
 * Animal Planet HD
 * Love Nature 4K
 * CGTN Documentary HD
-* Animation&Anime TV
+* Mentari TV HD
+* VTV HD
 * Disney Junior JP
 * Animax HD
 * Cartoon Network HD
-* Dreamworks HD
-* Kids Station JP
-* Mentari TV HD
-* VTV HD
 * Planet Fun
 * Cartoonito HD
 * DEI KIDS TV
 * Kidzone+
-* Krayunia Cartoon
+* CBeebies
 * EBS Kids
 * SpaceToon
+* Kids Station JP
+* Dreamworks HD
 * Zoomoo HD
 * CNA HD
 * Al Jazeera English HD
-* ABS-CBN News HD
+* BBC News HD
 * Euronews HD
 * iNews HD
 * FOX News HD
@@ -106,22 +101,18 @@
 * DAAI TV
 * Quran TV
 * Sunna TV
-* TRG Lifts
+* SEA Today HD (inactive)
+* Trans TV HD
+* Trans 7 HD
 ### Sport Channels
 * SPOTV HD
 * SPOTV 2 HD
 * Eurosport HD
 ### Premium Channels
-* Trans TV HD
-* Trans 7 HD
-* RCTI HD
-* GTV HD
-* MNCTV HD
-* Juice=Juice
-* Tsubaki Factory
-* Rosy Chonicle
 * HBO HD
 * HBO Hits HD
 * HBO Family HD
 * HBO Signature HD
 * Cinemax HD
+* Nickelodeon HD
+* Nick Jr. HD
