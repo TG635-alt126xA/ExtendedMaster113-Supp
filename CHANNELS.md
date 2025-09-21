@@ -5,7 +5,7 @@
 * Kompas TV HD
 * TVRI Nasional HD
 * ANTV HD
-* TLC HD
+* Nippon TV HD
 * tvOne HD
 * RTV HD
 * Jak TV
@@ -43,6 +43,7 @@
 * Lifestyle Television
 * Fashion TV
 * Global Trekker HD
+* TLC HD
 * Discovery HD
 * Animal Planet HD
 * Love Nature 4K
