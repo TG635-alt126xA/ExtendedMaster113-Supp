@@ -1,55 +1,66 @@
 ## Channels List
-* EM113 TV
+### Basic Channels
+* DENS Play
+* DENS Food Channel
+* DENS Showbiz
+* Zihuzhe
+* BTV HD
 * MDTV HD
-* Hello! Project
+* BEYOOOOONDS
 * Metro TV HD
+* tvOne HD
 * Kompas TV HD
-* iNews HD
+* BeritaSatu HD
+* TVRI Sport HD
 * TVRI Nasional HD
 * SCTV HD
 * Indosiar HD
 * ANTV HD
-* Nippon TV HD
-* tvOne HD
+* InPlus Pakistan
+* AXN HD
 * Moji TV HD
-* BTV HD
-* BeritaSatu HD
-* Garuda TV HD
-* HBO HD
-* HBO Hits HD
-* HBO Family HD
-* HBO Signature HD
-* Cinemax HD
+* EM113 TV
+* Hello! Project
 * Studio Universal HD
 * Celestial Movies HD
 * Thrill
 * KIX HD
-* AXN HD
-* Animax HD
-* GTV HD
-* ONE HD
+* Morning Musume
 * Warner TV HD
+* ONE HD
 * tvN HD
 * Rock Entertainment HD
-* GEM HD (inactive)
+* OCHA NORMA
 * Rock Action HD
 * TV5Monde Asie HD
 * Arirang HD
 * CCM HD
+* imase
+* Nippon TV HD
 * Kyassaba Television
 * Jak TV
 * Elshinta TV
 * TV Tokyo
 * Magna Channel HD
+* Lifetime HD
+* Hello! Project Station
+* GEM HD (inactive)
+* m-line music
 * Haruka Tomatsu HD
-* Momoiro Clover Z 4K
+* MTV Live HD
 * TV5Monde Style HD
+* OMAKE CHANNEL
 * AFN HD
 * HGTV HD
 * Lifestyle Television
 * Fashion TV
 * Global Trekker HD
 * TLC HD
+* Momoiro Clover Z 4K
+* Futrim TV
+* Abinzy TV
+* Garuda TV HD
+* ANGERME
 * RTV HD
 * Discovery HD
 * Animal Planet HD
@@ -57,28 +68,60 @@
 * CGTN Documentary HD
 * Animation&Anime TV
 * Disney Junior JP
-* Zoomoo HD
+* Animax HD
 * Cartoon Network HD
 * Dreamworks HD
 * Kids Station JP
 * Mentari TV HD
 * VTV HD
-* Al Jazeera English HD
+* Planet Fun
+* Cartoonito HD
+* DEI KIDS TV
+* Kidzone+
+* Krayunia Cartoon
+* EBS Kids
+* SpaceToon
+* Zoomoo HD
 * CNA HD
-* CNN HD
+* Al Jazeera English HD
+* ABS-CBN News HD
 * Euronews HD
-* ABC Australia HD
+* iNews HD
+* FOX News HD
 * Nusantara TV HD
-* NHK World Japan HD
+* CNN HD
 * Bloomberg TV HD
+* RT HD
+* TRT World HD
 * CNBC Asia HD
-* DW HD
-* TVRI Sport HD
-* Eurosport HD
-* SPOTV HD
-* SPOTV 2 HD
+* France 24 HD
+* CGTN HD
+* KBS Korea HD
+* KBS World HD
+* ABC Australia HD
+* NHK World Japan HD
+* DW English HD
 * Daystar TV
 * Rodja TV
 * DAAI TV
 * Quran TV
 * Sunna TV
+* TRG Lifts
+### Sport Channels
+* SPOTV HD
+* SPOTV 2 HD
+* Eurosport HD
+### Premium Channels
+* Trans TV HD
+* Trans 7 HD
+* RCTI HD
+* GTV HD
+* MNCTV HD
+* Juice=Juice
+* Tsubaki Factory
+* Rosy Chonicle
+* HBO HD
+* HBO Hits HD
+* HBO Family HD
+* HBO Signature HD
+* Cinemax HD
