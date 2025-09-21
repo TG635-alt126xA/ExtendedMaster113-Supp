@@ -1,8 +1,8 @@
 ## Channels List
 ### Local
-* EM113 Mall Jakarta
-* EM113 Mall Bandung
-* EM113 Mall Yogyakarta
+* EM113 Channel (inhouse)
+* IDX Channel HD
+* BMS TV HD
 * Metro TV HD
 * tvOne HD
 * Kompas TV HD
@@ -14,20 +14,22 @@
 * MDTV HD
 * RTV HD
 * Elshinta TV
+* Kebumen TV HD
+* TVRI Jawa Tengah HD
 * TVRI Nasional HD
 * Jak TV
 * MOJI HD
 * DAAI TV HD
-* Indonesiana TV (SD/HD)
-* Channel Jowo (SD/HD)
+* Zihuzhe (Tritih Lor only)
+* WawaYaya (Tritih Lor only)
 * Nusantara TV HD
-* EM113 Mall Malang
-* EM113 Mall Magelang
+* JITV HD
+* KTV HD
 * JPM TV HD
 * Garuda TV HD
 * Magna Channel HD
 * BN Channel HD
-* EM113 Mall Medan
+* Jakarta Globe HD
 ### Movies
 * InPlus Pakistan
 * Lotus Macau
@@ -51,9 +53,10 @@
 ### Hello! Project
 ### Entertainment
 * Aniplus HD
-* Haruka Tomatsu HD
+* Channel Jowo HD
 * Rock Entertainment HD
 * Rock Action HD
+* Haruka Tomatsu HD
 * KBS World HD
 * K+ HD
 * tvN HD
@@ -88,7 +91,7 @@
 * CGTN HD
 * CNBC Asia HD
 * Bloomberg TV HD
-* IDX Channel HD
+* RT HD
 * ABC Australia HD
 * Arirang TV HD
 * BBC News HD
