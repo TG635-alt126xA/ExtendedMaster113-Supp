@@ -1,8 +1,8 @@
 ## Channels List
-### Basic Channels
-* Nippon TV HD
-* CGTN Documentary HD
-* CNN Indonesia HD
+### Local
+* EM113 Mall Jakarta
+* EM113 Mall Bandung
+* EM113 Mall Yogyakarta
 * Metro TV HD
 * tvOne HD
 * Kompas TV HD
@@ -11,73 +11,73 @@
 * ANTV HD
 * SCTV HD
 * Indosiar HD
-* Trans TV HD
-* DMI TV HD
-* Trans 7 HD
-* VTV HD
 * MDTV HD
 * RTV HD
 * Elshinta TV
-* Nusantara TV HD
+* Inspira TV
 * TVRI Sport HD
 * TVRI Nasional HD
 * Jak TV
-* Rodja TV
 * MOJI HD
 * DAAI TV HD
 * Indonesiana TV (SD/HD)
 * Channel Jowo (SD/HD)
+* Nusantara TV HD
+* EM113 Mall Malang
+* EM113 Mall Magelang
+* JPM TV HD
 * Garuda TV HD
 * Magna Channel HD
 * BN Channel HD
+* EM113 Mall Medan
+### Movies
+* InPlus Pakistan
+* Lotus Macau
+* Xing Kong
+* Z Bioskop
+* tvN Movies HD
+* Studio Universal HD
+### Kids
 * TV Tokyo
 * Mentari TV HD
-* Cartoon Network HD
+* VTV HD
 * Planet Fun
 * DEI KIDS TV
-* CBeebies
+* Kidzone+ Pakistan
 * EBS Kids
-* Kids Station JP
+* Kids Station Japan
 * Dreamworks HD
 * Zoomoo HD
 * たまごっち
-* Cartoonito HD
+* CBeebies
+### Hello! Project
+### Entertainment
+* Aniplus HD
+* Haruka Tomatsu HD
 * Rock Entertainment HD
 * Rock Action HD
-* Studio Universal HD
-* KIX HD
-* Warner TV HD
-* TF1 HD
-* TV5Monde Asie HD
-* KBS Korea HD
 * KBS World HD
+* K+ HD
 * tvN HD
-* tvN Movies HD
-* Celestial Movies HD
-* CCM HD
-* Thrill
-* Lifetime HD
-* OMAKE CHANNEL HD
-* H!P Station HD
-* m-line music HD
-* Haruka Tomatsu HD
-* MTV Live HD
-* TV5Monde Style HD
+### Lifestyle
 * BBC Lifestyle HD
-* Crema TV HD
-* AFN HD
-* HGTV HD
-* Channel V China
 * Fashion TV
-* Global Trekker HD
-* TLC HD
-* Xing Kong China
+### Music
+* m-line music HD
+* Channel V China
+* Deluxe Lounge HD
+### Elevators
+### Knowledge
 * BBC Earth HD
-* Discovery HD
-* Animal Planet HD
+* Global Trekker HD
+* Outdoor Channel HD
+* Krayunia Adventure
+* Love Nature HD
+* Discovery Asia HD
 * History HD
 * Love Nature 4K
 * Crime+Investigation HD
+### News & International
 * Al Jazeera English HD
 * NHK World Japan HD
 * TRT World HD
@@ -86,30 +86,29 @@
 * DW English HD
 * Euronews HD
 * iNews HD
+* CGTN Documentary HD
 * CGTN HD
-* TVBS News HD
-* CNN International HD
-* Bloomberg TV HD
 * CNBC Asia HD
-* ABC Australia HD
-* BBC News HD
-* CNBC Indonesia HD
-* Sindonews TV HD
+* Bloomberg TV HD
 * IDX Channel HD
+* ABC Australia HD
+* Arirang TV HD
+* BBC News HD
+* EM113 News
+* Sindonews TV HD
+* Nippon TV HD
+* TV5 Monde Asie HD
+* KBS Korea HD
+### Religion
 * TBN Asia
-* Unicode
+* EM113 Faith
 * Quran TV
 * Sunna TV
-* UP-FRONT CHANNEL
+* Rodja TV HD
+* DMI TV HD
+* tvMu HD
 * Daystar TV
+### Sports
 * SPOTV HD
 * SPOTV 2 HD
 * Eurosport HD
-### Premium Channels
-* HBO HD
-* HBO Hits HD
-* HBO Family HD
-* HBO Signature HD
-* Cinemax HD
-* Nickelodeon HD
-* Nick Jr. HD
