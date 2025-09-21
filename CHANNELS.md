@@ -3,65 +3,71 @@
 * DENS Showbiz
 * DENS Food Channel
 * DENS Play
+* Kebumen TV HD
 * MDTV HD
+* CNN Indonesia HD
 * Metro TV HD
 * tvOne HD
 * Kompas TV HD
+* BTV HD
+* Berita Satu HD
 * TVRI Sport HD
 * TVRI Nasional HD
 * SCTV HD
 * Indosiar HD
+* RTV HD
+* MOJI HD
 * ANTV HD
-* InPlus Pakistan
-* AXN HD
-* Moji TV HD
+* CNBC Indonesia HD
+* Ryurey House
+* GTV HD
+* Nusantara TV HD
 * Studio Universal HD
 * Celestial Movies HD
 * Thrill
 * KIX HD
-* Sindonews TV
 * Warner TV HD
 * ONE HD
 * tvN HD
 * Rock Entertainment HD
-* BTV HD
+* AXN HD
 * Rock Action HD
+* TF1 HD
 * TV5Monde Asie HD
 * Arirang HD
-* CCM HD
-* BeritaSatu HD
-* DIM TV
-* Xing Kong China
+* QWER 4K
+* GEM HD (inactive)
 * Jak TV
 * Elshinta TV
 * TV Tokyo
 * Magna Channel HD
 * Lifetime HD
-* RCTI HD
-* GTV HD
-* MNCTV HD
+* OMAKE CHANNEL HD
+* H!P Station HD
+* m-line music HD
 * Haruka Tomatsu HD
 * MTV Live HD
 * TV5Monde Style HD
 * BBC Lifestyle HD
-* GEM HD (inactive)
+* Crema TV HD
 * AFN HD
 * HGTV HD
 * Channel V China
 * Fashion TV
 * Global Trekker HD
 * TLC HD
-* B4U Movie
-* B4U Music
-* Shenzhen TV
+* KBS Korea HD
+* KBS World HD
 * Garuda TV HD
 * Nippon TV HD
-* RTV HD
-* Discovery HD
+* Xing Kong China
 * BBC Earth HD
+* Discovery HD
 * Animal Planet HD
-* Love Nature 4K
 * CGTN Documentary HD
+* History HD
+* Love Nature 4K
+* Crime+Investigation HD
 * Mentari TV HD
 * VTV HD
 * Disney Junior JP
@@ -77,31 +83,28 @@
 * Kids Station JP
 * Dreamworks HD
 * Zoomoo HD
-* CNA HD
 * Al Jazeera English HD
-* BBC News HD
+* NHK World Japan HD
+* TRT World HD
+* CNA HD
+* France 24 English HD
+* DW English HD
 * Euronews HD
 * iNews HD
-* FOX News HD
-* Nusantara TV HD
-* CNN HD
-* Bloomberg TV HD
-* RT HD
-* TRT World HD
-* CNBC Asia HD
-* France 24 HD
 * CGTN HD
-* KBS Korea HD
-* KBS World HD
+* TVBS News HD
+* CNN International HD
+* Bloomberg TV HD
+* CNBC Asia HD
 * ABC Australia HD
-* NHK World Japan HD
-* DW English HD
+* BBC News HD
+* Sindonews TV HD
 * Daystar TV
 * Rodja TV
 * DAAI TV
 * Quran TV
 * Sunna TV
-* SEA Today HD (inactive)
+* UP-FRONT CHANNEL
 * Trans TV HD
 * Trans 7 HD
 ### Sport Channels
@@ -114,5 +117,6 @@
 * HBO Family HD
 * HBO Signature HD
 * Cinemax HD
+* tvN Movies
 * Nickelodeon HD
 * Nick Jr. HD
