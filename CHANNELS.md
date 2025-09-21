@@ -14,8 +14,6 @@
 * MDTV HD
 * RTV HD
 * Elshinta TV
-* Inspira TV
-* TVRI Sport HD
 * TVRI Nasional HD
 * Jak TV
 * MOJI HD
@@ -111,4 +109,4 @@
 ### Sports
 * SPOTV HD
 * SPOTV 2 HD
-* Eurosport HD
+* TVRI Sport HD
