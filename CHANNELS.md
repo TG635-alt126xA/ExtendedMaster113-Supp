@@ -1,40 +1,33 @@
 ## Channels List
 ### Local
 * ANTV HD
-* Bali TV
-* Beritasatu HD
-* BMS TV
-* BN Channel HD
+* BeritaSatu HD
+* BN TV HD
 * BTV HD
-* CNN Indonesia HD
-* DAAI Indonesia HD
+* Channel Jowo (SD/HD)
+* DAAI TV HD
 * Elshinta TV
-* EM113 TV
 * Garuda TV HD
-* GTV HD
+* Global TV HD
 * IDX Channel HD
-* Indosiar HD
-* Jakarta Globe HD
+* iNews TV HD
 * JAKTV
-* Jawa Pos TV HD
 * JITV HD
+* JPM HD
 * JTV
-* Kebumen TV HD
-* KTV HD
-* Magna Channel HD
+* Kompas TV HD
+* KTV
+* Magna TV HD
 * MDTV HD
 * Metro TV HD
 * MNC TV HD
-* Moji TV HD
 * Nusantara TV HD
 * RCTI HD
 * RTV HD
-* SCTV HD
-* Trans 7 SD
-* Trans TV SD
+* SinemArt
 * tvOne HD
-* TVRI Jateng HD
 * TVRI Nasional HD
+* Zihuzhe
 ### Movies
 * B4U Movies
 * Celestial Movies HD
@@ -56,98 +49,90 @@
 * Xing Kong China
 * Z Bioskop
 ### Kids
-* Animax HD
-* ANIPLUS HD
+* Animation& Anime TV
 * Cartoon Network HD
-* Cartoon TV
-* Cartoon TV Classics
-* Cartoon TV Premium
 * Cartoonito HD
-* CBeebies
 * DEI KIDS TV
 * Disney Jr. Japan
 * Dreamworks HD
 * EBS Kids
-* GaruGaku
 * JIAJIA Cartoon Channel
 * Kartoon Channel HD
 * Kids Station Japan
-* Kids TV HD
 * Kidzone+ Pakistan
-* Love Live!
 * Mentari TV HD
-* Nickelodeon HD
-* Nick Jr. HD
 * Planet Fun
 * SpaceToon
-* Treehouse TV
 * ToonMax TV
 * TV Tokyo HD
 * VTV HD
+* WawaYaya
 * Youman Cartoon
-* YTV
-* たまごっち
+* たまごっち (Tamagotchi)
 ### Lifestyle
 * AFN HD
 * BBC Lifestyle HD
-* Celebrities TV
 * Crema TV
-* Dens Food Channel
-* Dens Play
 * Fashion TV
-* Food Travel HD
-* Gaming TV
+* Futrim TV
 * Global Trekker HD
 * HGTV HD
 * Lejel Home Shopping Live
 * Lifestyle Television
-* SUPERYACHT TV
-* Travel TV
 * Trvl Channel HD
 * TLC HD
 * TV5MONDE Style HD
 ### Entertainment
-* AKB48 HD
 * ABS-CBN Entertainment
+* AKB48 HD
+* ANGERME
+* Animax HD
+* ANIPLUS HD
 * AXN HD
 * B4U Music
-* Channel Jowo (SD/HD)
+* BEYOOOOONDS
+* Channel Dangdut Indonesia
+* Channel R Krayunia
 * Channel V China
 * Crime+Investigation HD
-* Dens Showbiz
-* Deluxe Lounge HD
-* Dlife Japan
-* FOX HD
+* FOX Japan HD
 * fripSide Channel
-* GEM HD (inactive)
-* Guangdong TV
-* Hanacaraka TV
+* Girls2 TV
+* Guangdong Channel
 * Haruka Tomatsu (HD/4K)
+* Hello! Project Channel
+* Hello! Project Station
 * HITS HD
 * HITS Now HD
-* Kyassaba Television
-* KIX HD
+* Hulu Japan
+* Inori Minase
+* Juice=Juice
 * K-PLUS HD
+* Kana Hanazawa
+* KIX HD
+* Kyassaba Television
 * LAPONE Entertainment TV (HD/4K)
 * Lifetime HD
+* m-line music HD
 * Momoiro Clover Z (HD/4K)
-* MTV 90s (SD/HD)
-* MTV LIVE HD
+* Morning Musume
 * Nanchatte TV
+* OCHA NORMA
+* OMAKE CHANNEL
 * ONE HD
-* One TV
 * PassCode TV
 * Perfume Japan
 * QWER (HD/4K)
 * Rock Action HD
 * Rock Entertainment HD
-* Shenzen TV
-* Song TV
-* 7obu
+* Rosy Chronicle
+* Shenzen Channel
+* Tsubaki Factory
 * tvN HD
+* TWICE TV
+* UP-FRONT CHANNEL 4K
+* UP-FRONT CHANNEL HD
 * Warner TV HD
-* UP-FRONT CHANNEL
-* Zhejiang TV
 ### Knowledge
 * Animal Planet HD
 * BBC Earth HD
@@ -167,14 +152,10 @@
 * CGTN HD
 * Channel News Asia HD
 * CNBC Asia HD
-* CNBC Indonesia HD
 * CNN International HD
 * Euro News
-* FOX News HD
-* Inews TV HD
 * Phoenix Chinese
 * Russia Today HD
-* Sindonews TV
 * TRT World HD
 * TVBS
 * TVRI World HD
@@ -190,12 +171,14 @@
 * NHK World HD
 * Nippon TV
 * Phoenix HK
+* RAI Italia
 * TF1
 * TV5MONDE HD
 * VOA HD
 ### Religion
 * Daystar TV
 * DMI TV HD
+* GMS Channel HD
 * HOPE Channel
 * Pijar TV
 * Quran TV
@@ -209,16 +192,14 @@
 ### Sports
 * A Sports HD
 * ABS-CBN Sports HD
+* EM113 Sport 1
+* EM113 Sport 2
 * Eurosport HD
-* Football TV
 * Fight Sports
-* Fight TV
+* Krayunia Sports
 * NBA TV HD
 * PSJ TV
 * Red Bull TV
-* Speed TV
-* Sports TV
 * SPOTV HD
 * SPOTV 2 HD
 * TVRI Sport HD
-* Xtrem Sports
