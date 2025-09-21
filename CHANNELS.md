@@ -3,20 +3,22 @@
 * ANTV HD
 * Bali TV
 * Beritasatu HD
-* Bersatu TV HD
 * BMS TV
 * BN Channel HD
-* DAAI Indonesia
+* BTV HD
+* CNN Indonesia HD
+* DAAI Indonesia HD
 * Elshinta TV
+* EM113 TV
 * Garuda TV HD
 * GTV HD
 * IDX Channel HD
 * Indosiar HD
 * Jakarta Globe HD
-* Jakarta TV
-* Jatim TV
+* JAKTV
 * Jawa Pos TV HD
 * JITV HD
+* JTV
 * Kebumen TV HD
 * KTV HD
 * Magna Channel HD
@@ -57,6 +59,9 @@
 * Animax HD
 * ANIPLUS HD
 * Cartoon Network HD
+* Cartoon TV
+* Cartoon TV Classics
+* Cartoon Premium
 * Cartoonito HD
 * CBeebies
 * DEI KIDS TV
@@ -88,51 +93,53 @@
 * Dens Play
 * Fashion TV
 * Food Travel HD
+* Gaming TV
 * Global Trekker HD
 * HGTV HD
+* Lejel Home Shopping Live
 * Lifestyle Television
+* SUPERYACHT TV
+* Travel TV
+* Trvl Channel HD
 * TLC HD
 * TV5MONDE Style HD
 ### Entertainment
 * AKB48 HD
 * ABS-CBN Entertainment
-* ANGERME
 * AXN HD
 * B4U Music
-* Boomplay Music
 * Channel V China
 * Crime+Investigation HD
 * Dens Showbiz
 * Deluxe Lounge HD
 * Dlife Japan
-* fripSide
+* FOX HD
+* fripSide Channel
+* GEM HD (inactive)
 * Guangdong TV
-* Haruka Tomatsu
-* Hello! Project Station
+* Haruka Tomatsu (HD/4K)
 * HITS HD
 * HITS Now HD
-* JKT48
 * Kyassaba Television
 * KIX HD
 * K-PLUS HD
+* LAPONE Entertainment TV (HD/4K)
 * Lifetime HD
-* Momoiro Clover Z 4K
-* Morning Musume
-* m-line music
+* Momoiro Clover Z (HD/4K)
 * MTV 90s (SD/HD)
 * MTV LIVE HD
-* OCHA NORMA
-* OMAKE CHANNEL
+* Nanchatte TV
 * ONE HD
 * PassCode TV
 * Perfume Japan
-* QWER TV
+* QWER (HD/4K)
 * Rock Action HD
 * Rock Entertainment HD
 * Shenzen TV
+* Song TV
 * 7obu
 * tvN HD
-* Warner TV
+* Warner TV HD
 * UP-FRONT CHANNEL
 * Zhejiang TV
 ### Knowledge
@@ -153,7 +160,8 @@
 * Bloomberg TV HD
 * CGTN HD
 * Channel News Asia HD
-* CNBC Asia
+* CNBC Asia HD
+* CNBC Indonesia HD
 * CNN International HD
 * Euro News
 * FOX News HD
@@ -183,19 +191,28 @@
 * Daystar TV
 * DMI TV HD
 * HOPE Channel
+* Pijar TV
 * Quran TV
 * Rodja TV
 * Salam TV
 * Sunna TV
 * TBN Asia
+* TV9 Nusantara
 * tvMu HD
 * U-CHANNEL
 ### Sports
 * A Sports HD
 * ABS-CBN Sports HD
 * Eurosport HD
+* Football TV
+* Fight Sports
+* Fight TV
 * NBA TV HD
+* PSJ TV
 * Red Bull TV
+* Speed TV
+* Sports TV
 * SPOTV HD
 * SPOTV 2 HD
 * TVRI Sport HD
+* Xtrem Sports
