@@ -1,107 +1,201 @@
 ## Channels List
 ### Local
-* EM113 Channel (inhouse)
-* IDX Channel HD
-* BMS TV HD
-* Metro TV HD
-* MOJI HD
-* BTV HD
-* BeritaSatu HD
-* MDTV HD
-* RTV HD
-* Elshinta TV
-* Kebumen TV HD
-* TVRI Jawa Tengah HD
-* TVRI Nasional HD
-* Jak TV
-* DAAI TV HD
-* SCTV HD
-* Indosiar HD
-* Nusantara TV HD
-* JPM TV HD
-* Garuda TV HD
-* Magna Channel HD
+* ANTV HD
+* Bali TV
+* Beritasatu HD
+* Bersatu TV HD
+* BMS TV
 * BN Channel HD
+* DAAI Indonesia
+* Elshinta TV
+* Garuda TV HD
+* GTV HD
+* IDX Channel HD
+* Indosiar HD
 * Jakarta Globe HD
+* Jakarta TV
+* Jatim TV
+* Jawa Pos TV HD
+* JITV HD
+* Kebumen TV HD
+* KTV HD
+* Magna Channel HD
+* MDTV HD
+* Metro TV HD
+* MNC TV HD
+* Moji TV HD
+* Nusantara TV HD
+* RCTI HD
+* RTV HD
+* SCTV HD
+* Trans 7 SD
+* Trans TV SD
+* tvOne HD
+* TVRI Jateng HD
+* TVRI Nasional HD
 ### Movies
+* B4U Movies
+* Celestial Movies HD
+* Celestial Classic Movies
+* Cinemax HD
+* Galaxy
+* Galaxy Premium
+* HBO HD
+* HBO Family HD
+* HBO Hits HD
+* HBO Signature HD
+* HITS Movies HD
+* Indonesian Movie Channel
 * InPlus Pakistan
 * Lotus Macau
-* Xing Kong
-* Z Bioskop
-* tvN Movies HD
 * Studio Universal HD
+* Thrill
+* tvN Movies HD
+* Xing Kong China
+* Z Bioskop
 ### Kids
-* TV Tokyo
-* Mentari TV HD
-* Dreamworks HD
-* Planet Fun
-* DEI KIDS TV
-* Kidzone+ Pakistan
-* EBS Kids
-* Kids Station Japan
-* たまごっち
-* Kartoon Channel
-* WawaYaya
+* Animax HD
+* ANIPLUS HD
+* Cartoon Network HD
+* Cartoonito HD
 * CBeebies
-### Hello! Project
-* Morning Musume
-* ANGERME
-* OCHA NORMA
-### Entertainment
-* Aniplus HD
-* Channel Jowo HD
-* Rock Entertainment HD
-* Rock Action HD
-* Haruka Tomatsu HD
-* KBS World HD
-* K+ HD
-* tvN HD
+* DEI KIDS TV
+* Disney Jr. Japan
+* Dreamworks HD
+* EBS Kids
+* JIAJIA Cartoon Channel
+* Kartoon Channel HD
+* Kids Station Japan
+* Kids TV HD
+* Kidzone+ Pakistan
+* Mentari TV HD
+* Nickelodeon HD
+* Nick Jr. HD
+* Planet Fun
+* SpaceToon
+* Treehouse TV
+* ToonMax TV
+* TV Tokyo HD
+* VTV HD
+* Youman Cartoon
+* YTV
+* たまごっち
 ### Lifestyle
+* AFN HD
 * BBC Lifestyle HD
+* Crema TV
+* Dens Food Channel
+* Dens Play
 * Fashion TV
-### Music
-* m-line music HD
-* Channel V China
-* Deluxe Lounge HD
-### Knowledge
-* BBC Earth HD
+* Food Travel HD
 * Global Trekker HD
-* Outdoor Channel HD
-* Krayunia Adventure
-* Love Nature HD
-* CGTN Documentary HD
-* History HD
-* Love Nature 4K
+* HGTV HD
+* Lifestyle Television
+* TLC HD
+* TV5MONDE Style HD
+### Entertainment
+* AKB48 HD
+* ABS-CBN Entertainment
+* ANGERME
+* AXN HD
+* B4U Music
+* Boomplay Music
+* Channel V China
 * Crime+Investigation HD
+* Dens Showbiz
+* Deluxe Lounge HD
+* Dlife Japan
+* fripSide
+* Guangdong TV
+* Haruka Tomatsu
+* Hello! Project Station
+* HITS HD
+* HITS Now HD
+* JKT48
+* Kyassaba Television
+* KIX HD
+* K-PLUS HD
+* Lifetime HD
+* Momoiro Clover Z 4K
+* Morning Musume
+* m-line music
+* MTV 90s (SD/HD)
+* MTV LIVE HD
+* OCHA NORMA
+* OMAKE CHANNEL
+* ONE HD
+* PassCode TV
+* Perfume Japan
+* QWER TV
+* Rock Action HD
+* Rock Entertainment HD
+* Shenzen TV
+* 7obu
+* tvN HD
+* Warner TV
+* UP-FRONT CHANNEL
+* Zhejiang TV
+### Knowledge
+* Animal Planet HD
+* BBC Earth HD
+* Discovery HD
+* Discovery Asia HD
+* History HD
+* Krayunia Adventure
+* Love Nature 4K
+* Love Nature HD
+* National Geographic Japan
 ### News
-* Al Jazeera English HD
-* France 24 English HD
-* TRT World HD
-* CNA HD
-* Euronews HD
-* CGTN HD
-* iNews HD
-* Bloomberg TV HD
-* CNBC Asia HD
 * ABC Australia HD
+* ABS-CBN News
+* Al Jazeera English HD
 * BBC News HD
+* Bloomberg TV HD
+* CGTN HD
+* Channel News Asia HD
+* CNBC Asia
+* CNN International HD
+* Euro News
+* FOX News HD
+* Inews TV HD
+* Phoenix Chinese
+* Russia Today HD
+* Sindonews TV
+* TRT World HD
+* TVBS
+* TVRI World HD
 ### International
-* NHK World Japan HD
-* Nippon TV HD
 * Arirang TV HD
+* CCTV 4
+* CETV 1
+* CGTN Documentary HD
 * DW English HD
-* TV5 Monde Asie HD
+* France 24 English HD
 * KBS Korea HD
+* KBS World HD
+* NHK World HD
+* Nippon TV
+* Phoenix HK
+* TF1
+* TV5MONDE HD
+* VOA HD
 ### Religion
-* TBN Asia
-* EM113 Faith
-* Quran TV
-* Sunna TV
-* Rodja TV HD
-* DMI TV HD
-* tvMu HD
 * Daystar TV
+* DMI TV HD
+* HOPE Channel
+* Quran TV
+* Rodja TV
+* Salam TV
+* Sunna TV
+* TBN Asia
+* tvMu HD
+* U-CHANNEL
 ### Sports
+* A Sports HD
+* ABS-CBN Sports HD
+* Eurosport HD
+* NBA TV HD
+* Red Bull TV
 * SPOTV HD
 * SPOTV 2 HD
 * TVRI Sport HD
