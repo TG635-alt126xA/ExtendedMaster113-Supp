@@ -1,18 +1,20 @@
 ## Channels List
+* EM113 TV
 * MDTV HD
 * Hello! Project
 * Metro TV HD
 * Kompas TV HD
+* iNews HD
 * TVRI Nasional HD
+* SCTV HD
+* Indosiar HD
 * ANTV HD
 * Nippon TV HD
 * tvOne HD
-* RTV HD
-* Jak TV
-* Garuda TV HD
+* Moji TV HD
 * BTV HD
 * BeritaSatu HD
-* EM113 TV
+* Garuda TV HD
 * HBO HD
 * HBO Hits HD
 * HBO Family HD
@@ -22,16 +24,20 @@
 * Celestial Movies HD
 * Thrill
 * KIX HD
+* AXN HD
+* Animax HD
+* GTV HD
 * ONE HD
+* Warner TV HD
 * tvN HD
 * Rock Entertainment HD
 * GEM HD (inactive)
 * Rock Action HD
-* AXN HD
 * TV5Monde Asie HD
 * Arirang HD
 * CCM HD
 * Kyassaba Television
+* Jak TV
 * Elshinta TV
 * TV Tokyo
 * Magna Channel HD
@@ -44,15 +50,19 @@
 * Fashion TV
 * Global Trekker HD
 * TLC HD
+* RTV HD
 * Discovery HD
 * Animal Planet HD
 * Love Nature 4K
 * CGTN Documentary HD
 * Animation&Anime TV
-* Animax HD
+* Disney Junior JP
 * Zoomoo HD
 * Cartoon Network HD
 * Dreamworks HD
+* Kids Station JP
+* Mentari TV HD
+* VTV HD
 * Al Jazeera English HD
 * CNA HD
 * CNN HD
