@@ -1,5 +1,6 @@
 ## All Channels
 * ABC Australia
+* ABC USA
 * Al Jazeera Arabic
 * Al Jazeera English
 * Animax
@@ -21,6 +22,8 @@
 * Boomerang (now Cartoonito)
 * BTV (formerly BeritaSatu)
 * Cartoon Network
+* CBeebies
+* CBS USA
 * CGTN Documentary
 * Channel News Asia
 * Cinemax
@@ -34,16 +37,20 @@
 * DIM TV
 * Disney Jr. Japan
 * Dreamworks
-* DW TV
-* Elshinta TV
+* DW TV Arabic
+* DW TV Deutsch
+* DW TV English
+* DW TV Latino
+* Elshinta TV (inactive)
 * EM113 TV
 * Euronews
 * FOX Japan (now Dlife Japan)
+* FOX USA
 * France 24
+* Fuji TV
 * Galaxy
 * Galaxy Premium
 * Garuda TV
-* GEM (now inactive)
 * Global Trekker
 * Global TV Canada
 * Global TV Indonesia (now GTV Indonesia)
@@ -68,50 +75,67 @@
 * JPM TV (now Jawa Pos TV)
 * JTV
 * K+
+* Kana Hanazawa
 * KBS Korea
 * KBS World
 * Kebumen TV
 * Kompas TV
-* Kracie
 * KTV
 * Lejel Home Shopping
 * Lifetime
 * Love Nature 4K (replaces National Geographic Wild)
 * Magna Channel
-* MDTV (formerly NET.)
 * Mentari TV
 * Metro TV
-* MNCTV
-* Moji TV (formerly O Channel)
+* MNC News (now Sindo News TV)
+* MNC TV
+* Momoiro Clover Z
+* MTV 90s
+* MTV Live
+* National Geographic Japan
+* NBC USA
+* NET TV (now MDTV)
+* NHK E
+* NHK G
 * NHK World Japan
+* Nickelodeon
+* Nickelodeon Jr.
 * Nippon TV
 * Nusantara TV
-* ONE
+* O Channel (now Moji TV)
 * Outdoor Channel (replaces National Grographic Channel)
+* PBS USA
 * Quran TV
+* Rai Italia
 * Rajawali Televisi (RTV)
 * RCTI
-* RED by HBO (now inactive)
+* RED by HBO (now is inactive)
 * Rock Action (formerly Rock Extreme)
 * Rock Entertainment
 * Rodja TV
 * Russia Today (RT)
 * SCTV
-* SEA Today (inactive)
-* Sindonews TV (formerly MNC News)
-* SpoTV
-* SpoTV 2
+* SEA Today (now is inactive)
+* Sony GEM (now GEM is active)
+* Sony ONE (now ONE)
+* SPOTV
+* SPOTV 2
 * Studio Universal
 * Tawaf TV (now DMI TV)
 * TBN Asia
+* TBS Japan
+* TBS News (Japan)
+* TBS USA
 * Tempel TV
 * TF1
+* Tokyo MX
 * Treehouse TV Canada
 * Trans TV
 * Trans7
 * Tritih Lor TV (now Kanarazia TV)
 * TV5MONDE Asie
 * TV5MONDE Style
+* TV Asahi
 * tvMu
 * tvN
 * tvN Movies
@@ -122,7 +146,7 @@
 * UATV (now FREEDOM)
 * U-Channel TV
 * VTV (formerly sportOne)
-* WakuWaku Japan (now inactive)
+* WakuWaku Japan (now is inactive)
 * WawaYaya
 * WION
 * YTV Canada
