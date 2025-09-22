@@ -1,6 +1,7 @@
 ## All Channels
 * ABC Australia
 * AFC (now AFN)
+* Africanews
 * Al Jazeera Arabic
 * Al Jazeera English
 * Animal Planet
@@ -34,6 +35,7 @@
 * CNN International
 * Crema TV
 * Crime+Investigation
+* Daystar TV
 * DAAI TV
 * DEI KIDS TV
 * DIM TV
