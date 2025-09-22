@@ -1,8 +1,9 @@
 ## All Channels
 * ABC Australia
-* ABC USA
+* AFC (now AFN)
 * Al Jazeera Arabic
 * Al Jazeera English
+* Animal Planet
 * Animax
 * AniPlus
 * ANTV
@@ -23,18 +24,21 @@
 * BTV (formerly BeritaSatu)
 * Cartoon Network
 * CBeebies
-* CBS USA
 * CGTN Documentary
 * Channel News Asia
+* Channel V China
 * Cinemax
 * CNBC Asia
 * CNBC Indonesia
 * CNN Indonesia
 * CNN International
+* Crema TV
 * Crime+Investigation
 * DAAI TV
 * DEI KIDS TV
 * DIM TV
+* Discovery
+* Discovery Asia
 * Disney Jr. Japan
 * Dreamworks
 * DW TV Arabic
@@ -44,8 +48,9 @@
 * Elshinta TV (inactive)
 * EM113 TV
 * Euronews
+* Fashion TV
 * FOX Japan (now Dlife Japan)
-* FOX USA
+* FOX News
 * France 24
 * Fuji TV
 * Galaxy
@@ -53,13 +58,14 @@
 * Garuda TV
 * Global Trekker
 * Global TV Canada
-* Global TV Indonesia (now GTV Indonesia)
+* Global TV Indonesia
 * Haruka Tomatsu
 * HBO
 * HBO Hits
 * HBO Family
 * HBO Signature
 * Hello! Project
+* HGTV
 * History
 * HITS
 * HITS Movies
@@ -70,6 +76,7 @@
 * IMC
 * Indosiar
 * iNews
+* InPlus Pakistan
 * Jak TV
 * JITV
 * JPM TV (now Jawa Pos TV)
@@ -79,10 +86,12 @@
 * KBS Korea
 * KBS World
 * Kebumen TV
+* Kidzone+
 * Kompas TV
 * KTV
 * Lejel Home Shopping
 * Lifetime
+* Lotus Macau
 * Love Nature 4K (replaces National Geographic Wild)
 * Magna Channel
 * Mentari TV
@@ -93,7 +102,6 @@
 * MTV 90s
 * MTV Live
 * National Geographic Japan
-* NBC USA
 * NET TV (now MDTV)
 * NHK E
 * NHK G
@@ -104,7 +112,6 @@
 * Nusantara TV
 * O Channel (now Moji TV)
 * Outdoor Channel (replaces National Grographic Channel)
-* PBS USA
 * Quran TV
 * Rai Italia
 * Rajawali Televisi (RTV)
@@ -125,14 +132,15 @@
 * TBN Asia
 * TBS Japan
 * TBS News (Japan)
-* TBS USA
 * Tempel TV
 * TF1
+* TLC
 * Tokyo MX
 * Treehouse TV Canada
 * Trans TV
 * Trans7
 * Tritih Lor TV (now Kanarazia TV)
+* Trvl Channel
 * TV5MONDE Asie
 * TV5MONDE Style
 * TV Asahi
@@ -149,6 +157,7 @@
 * WakuWaku Japan (now is inactive)
 * WawaYaya
 * WION
+* Xing Kong China
 * YTV Canada
 * Z Bioskop
 * Zihuzhe
