@@ -6,7 +6,6 @@ LCN | Channel Image | Channel Name |
 17 | ![17585684233604237229895031145037](https://github.com/user-attachments/assets/78d034a9-6578-4646-a135-52ee3d98724b) | Kompas TV
 19 | <img width="512" height="287" alt="Tak berjudul813_20250923035106" src="https://github.com/user-attachments/assets/4101b7a4-2122-4d9f-80db-bfc2c1a452c0" /> | IDTV
 20 | ![17585675737772794100953827687741](https://github.com/user-attachments/assets/d0ed8437-bf58-48aa-b288-72ebd5ec7e92) | TVRI Nasional
-24 | ![1172187-hanazawa-kana-type-your-text-and-hear](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/assets/1172187-hanazawa-kana-type-your-text-and-hear%20(1).webp) | Kana Hanazawa
 25 | ![17585682850627057363736275713378](https://github.com/user-attachments/assets/450088cb-e4b0-43b7-8890-8bf53ba7a302) | RTV
 26 | ![17585729139743786863874650809097](https://github.com/user-attachments/assets/ebaaba69-43ee-4c3e-a68b-1c5ff7ef8bcd) | JAKTV
 29 | ![17585722151442972132056852224172](https://github.com/user-attachments/assets/6a11d6cc-40bb-4a79-a4d7-8ab6d93bde84) | DAAI TV
