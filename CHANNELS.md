@@ -8,9 +8,8 @@
 11 | <img width="416" height="234" alt="17585728532319187499684843613944" src="https://github.com/user-attachments/assets/ff8ceb8b-0f47-42b0-96bb-422a14e9cb3b" /> | ANTV
 12 | <img width="512" height="286" alt="Tak berjudul813_20250923144856" src="https://github.com/user-attachments/assets/51e7ce4a-60a2-4a27-b3b1-4a7df65fbab0" /> | Reyvan Aprilian \- EM113
 13 | <img width="416" height="234" alt="17585729783343538079136570777892" src="https://github.com/user-attachments/assets/0dba9139-32f7-4683-acf1-5db7978376a4" /> | BTV
-14 | ![17586162400327378142582763019140](https://github.com/user-attachments/assets/55b9e1bd-444b-4c8e-8968-209f4c911e52) | GTV
-15 | ![17585684233604237229895031145037](https://github.com/user-attachments/assets/78d034a9-6578-4646-a135-52ee3d98724b) | Kompas TV
-17 | ![17586161078884350869228560895363](https://github.com/user-attachments/assets/c9cc6aca-695a-4cbc-b554-f33b8f55670a) | MNC TV
+14 | ![17585684233604237229895031145037](https://github.com/user-attachments/assets/78d034a9-6578-4646-a135-52ee3d98724b) | Kompas TV
+15 | <img width="311" height="174" alt="Tak berjudul813_20250923035327" src="https://github.com/user-attachments/assets/c006c3d6-cdc7-4b96-af5c-624763ab7e41" /> | BEYOOOOONDS
 18 | ![17585687657496363030360611674177](https://github.com/user-attachments/assets/e4b19860-9240-407a-bec6-522c2f021bf9) | NET. TV (MDTV)
 19 | ![17585675737772794100953827687741](https://github.com/user-attachments/assets/d0ed8437-bf58-48aa-b288-72ebd5ec7e92) | TVRI Nasional
 25 | ![17585762112142396462441215136005](https://github.com/user-attachments/assets/f85c6f69-8b6c-4355-aa55-85e94564ff0b) | JTV
