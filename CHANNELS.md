@@ -6,7 +6,6 @@
 9 | <img width="416" height="234" alt="17586857868737598283136998047505" src="https://github.com/user-attachments/assets/2b7caa9f-7fa9-47dd-9603-a2b36b9a0f04" /> | Indosiar
 10 | <img width="416" height="234" alt="17585730757213988716759306393068" src="https://github.com/user-attachments/assets/dc739366-b414-49f4-8786-fb4a86145dd6" /> | Metro TV
 11 | <img width="416" height="234" alt="17585728532319187499684843613944" src="https://github.com/user-attachments/assets/ff8ceb8b-0f47-42b0-96bb-422a14e9cb3b" /> | ANTV
-12 | ![17586843615971155075375861900840](https://github.com/user-attachments/assets/ae87580b-9ecc-4d30-90ca-ca5780abba3e) | JAKTV
 13 | <img width="416" height="234" alt="17585729783343538079136570777892" src="https://github.com/user-attachments/assets/0dba9139-32f7-4683-acf1-5db7978376a4" /> | BTV
 15 | <img width="311" height="174" alt="Tak berjudul813_20250923035327" src="https://github.com/user-attachments/assets/bc59b7fe-67fd-4927-939e-15066199a7b3" /> | BEYOOOOONDS
 16 | <img width="512" height="288" alt="Tak berjudul813_20250923183223" src="https://github.com/user-attachments/assets/28745288-f7a7-4df3-848a-c46833151768" /> | Lucky²
@@ -21,6 +20,7 @@
 30 | <img width="311" height="174" alt="Tak berjudul813_20250923041707" src="https://github.com/user-attachments/assets/e3fbd8a7-693f-4c50-8d5b-f9da50fa2c90" /> | Tsubaki Factory
 31 | ![17586850288473046690837011149918](https://github.com/user-attachments/assets/d398bef5-0df8-4a94-878b-fad868ab4b52) | Mentari TV
 32 | ![17582079372531625684409751629635](https://github.com/user-attachments/assets/af82a332-ecff-430b-9b0b-157f9997d9cb) | RTV
+33 | ![17586843615971155075375861900840](https://github.com/user-attachments/assets/ae87580b-9ecc-4d30-90ca-ca5780abba3e) | JAKTV
 34 | ![MlineMusic-logo-20250404](https://github.com/user-attachments/assets/2fc5229a-c601-4801-8cd8-b044b3b19e47) | m-line music
 35 | <img width="512" height="288" alt="Tak berjudul813_20250924100910" src="https://github.com/user-attachments/assets/929b4191-cf0c-413b-b9e6-f7ff83a370fc" /> | MCZ
 36 | ![17586851917148602455306205644462](https://github.com/user-attachments/assets/dfcbf395-9f80-4a4e-8b48-ebe11392b753) | VTV
