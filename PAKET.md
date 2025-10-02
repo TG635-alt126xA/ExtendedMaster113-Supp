@@ -1,12 +1,12 @@
 ## Paket Basic
 ### J-Pop
-* girls2 (free-to-view)
-* Laki (free-to-view)
 * AKB48
 * Morning Musume
 * ANGERME
 * MCZ (free-to-view)
 * Perfume
+* girls2 (free-to-view)
+* Laki (free-to-view)
 * UP UP Girls
 ### Local
 * SCTV
