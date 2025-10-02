@@ -1,25 +1,19 @@
 ## Paket Basic
-### Local
-* SCTV
-* Indosiar
-* Moji TV
-* Kompas TV
-* TVRI Nasional (free-to-view)
-* BTV
+### TV Channels
+* Channel Jowo
 * Metro TV
-* Trans TV
-* Trans 7
-* DAAI TV
-* MNC TV
-* Jak TV
+* BTV
+* BeritaSatu
+* TVRI Nasional (free-to-view)
 * MDTV
 * RTV
+* DAAI TV
+* Jak TV
 * tvOne
 * Global TV
 * ANTV
 * Nusantara TV
 * Garuda TV (free-to-view)
-* BeritaSatu
-### News
-* Inews TV
-* Bloomberg TV
+* Magna Channel
+* BN Channel
+* Kompas TV
