@@ -1,39 +1,48 @@
 ## Paket Basic
 ### J-Pop
+#### Stage48
 * AKB48
+* JKT48
+#### Hello! Project
 * Morning Musume
+* Berryz Kobo
+* C-ute
 * ANGERME
+* UP UP Girls
+#### Others
 * MCZ (free-to-view)
-* Perfume
+#### LDH
 * girls2 (free-to-view)
 * Laki (free-to-view)
-* UP UP Girls
-### Local
-* SCTV
-* Indosiar
-* Trans7
-* TRANS TV
-* tvOne
-* Kompas TV
-* ANTV
+### TV Channels
+#### Local
+* MDTV (formerly NET.)
 * Metro TV
-* MDTV
-* RTV
-* Elshinta TV
-* JITV
-* TVRI Jateng
+* Kompas TV
 * TVRI Nasional (free-to-view)
+* SCTV
+* TRANS TV
+* Trans7
+* Indosiar
+* ANTV
+* tvOne
+* RTV
 * Jak TV
-* Rodja TV
-* Moji TV
-* DMI TV
+* Moji TV (formerly O Channel)
 * DAAI TV
-* BTV
-* BeritaSatu
+* BTV (formerly BeritaSatu)
+* IDTV (now BeritaSatu)
 * Nusantara TV
-* Bali TV
-* JTV
-* Jawa Pos TV
+* JITV
+* KTV
+* JPM TV
 * Garuda TV (free-to-view)
 * Magna Channel
 * BN Channel
+* Jakarta Globe
+#### Religion
+* Quran TV
+* Salam TV
+* Rodja TV
+* DMI TV
+* TVMU
