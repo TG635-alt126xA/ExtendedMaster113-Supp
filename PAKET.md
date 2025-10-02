@@ -13,18 +13,14 @@
 * Indosiar
 * Trans7
 * TRANS TV
-* Kebumen TV
-* GTV
 * tvOne
 * Kompas TV
 * ANTV
-* RCTI
 * Metro TV
-* JITV
 * MDTV
 * RTV
-* MNC TV
-* SinemArt
+* Elshinta TV
+* JITV
 * TVRI Jateng
 * TVRI Nasional (free-to-view)
 * Jak TV
@@ -35,13 +31,9 @@
 * BTV
 * BeritaSatu
 * Nusantara TV
-* Satelit TV
-* BMS TV
-* JPM
+* Bali TV
+* JTV
+* Jawa Pos TV
 * Garuda TV (free-to-view)
 * Magna Channel
 * BN Channel
-* Bali TV
-* JTV
-* Elshinta TV
-* Jakarta Globe
