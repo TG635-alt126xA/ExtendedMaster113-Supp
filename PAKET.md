@@ -1,18 +1,27 @@
 ## Paket Basic
 ### TV Channels
-* Channel Jowo
-* Metro TV
-* BTV
-* BeritaSatu
-* TVRI Nasional (free-to-view)
+* SCTV
+* Indosiar
+* RCTI
+* Moji TV
 * MDTV
-* RTV
+* BTV
+* Metro TV
+* Trans TV
+* TVRI Nasional (free-to-view)
+* Trans 7
 * DAAI TV
+* MNC TV
 * Jak TV
+* BeritaSatu
+* RTV
 * tvOne
 * Global TV
 * ANTV
 * Nusantara TV
+* jitv
+* KTV
+* JPM
 * Garuda TV (free-to-view)
 * Magna Channel
 * BN Channel
