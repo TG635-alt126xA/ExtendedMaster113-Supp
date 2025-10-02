@@ -1,49 +1,53 @@
 ## Paket Basic
-### J-Pop
-#### Stage48
-* AKB48
-* JKT48
-#### Hello! Project
-* Morning Musume
-* Berryz Kobo
-* C-ute
-* ANGERME
-* UP UP Girls
-#### Others
-* MCZ (free-to-view)
-#### LDH
-* girls2 (free-to-view)
-* Laki (free-to-view)
 ### TV Channels
-* ANTV
-* Trans7
-* Trans TV
-* Metro TV
-* tvOne
-* RCTI
-* GTV
+* Morning Musume
+* ANGERME
+* OCHA NORMA
+* DMI TV
+* Jak TV
+* tvMu
+* Euronews
+* Momoiro Clover Z (free-to-view)
+* UP UP GIRLS
 * MNC TV
+* Indosiar
+* RCTI
+* SCTV
+* Inews TV
+* Kompas TV
 * NET. (now MDTV)
 * RTV
-* Kompas TV
+* Metro TV
 * BTV (formerly BeritaSatu)
 * IDTV (now BeritaSatu)
-* TVRI Nasional (free-to-view)
-* Al Jazeera English
-* Al Jazeera Arabic
-* Indosiar
-* SCTV
-* Jak TV
-* Antara TV
-* Salam TV
-* Rodja TV
-* Moji TV
-* DMI TV
+* ANTV
+* Trans TV
+* tvOne
+* WawaYaya
+* Trans7
+* Global TV
+* BEYOOOOONDS
 * DAAI TV
-* Nippon TV
+* Moji TV (formerly O Channel)
 * JPM TV
 * Nusantara TV
-* tvMu
+* girls2 (free-to-view)
+* Laki (free-to-view)
+* Elshinta TV
+* Nippon TV
+* TVRI Sport
+* TVRI Nasional (free-to-view)
+* DW English
+* Arirang TV
+* CNA
+* Al Jazeera English
+* Al Jazeera Arabic
+* SPOTV
+* SPOTV 2
 * Garuda TV (free-to-view)
-* Quran TV
-* EM113 TV (inhouse)
+* Magna Channel
+* BN Channel
+* Bloomberg TV
+* Juice=Juice
+* Tsubaki Factory
+* Rosy Chronicle
