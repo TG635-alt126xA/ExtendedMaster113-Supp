@@ -15,21 +15,24 @@
 * girls2 (free-to-view)
 * Laki (free-to-view)
 ### TV Channels
-#### Local
+* ANTV
+* Trans7
+* Trans TV
 * Metro TV
 * tvOne
+* RCTI
+* GTV
+* MNC TV
+* NET. (now MDTV)
+* RTV
 * Kompas TV
 * BTV (formerly BeritaSatu)
 * IDTV (now BeritaSatu)
-* ANTV
-* SCTV
-* Indosiar
-* MDTV (formerly NET.)
-* RTV
-* Elshinta TV
-* Magna Channel
-* TVRI Sport HD
 * TVRI Nasional (free-to-view)
+* Al Jazeera English
+* Al Jazeera Arabic
+* Indosiar
+* SCTV
 * Jak TV
 * Antara TV
 * Salam TV
@@ -37,16 +40,10 @@
 * Moji TV
 * DMI TV
 * DAAI TV
-* Tritih Lor TV
-* Tritih Wetan TV
-* Nusantara TV
-* jitv
-* tvMu
-* JPM TV
-* Garuda TV (free-to-view)
-#### Kids
-* Mentari TV
-* VTV
-#### International
-* Quran TV
 * Nippon TV
+* JPM TV
+* Nusantara TV
+* tvMu
+* Garuda TV (free-to-view)
+* Quran TV
+* EM113 TV (inhouse)
