@@ -1,7 +1,7 @@
 ## Notes
 * **Bold Text** = Premium Channel
 * Normal Text = Free Channel
-## J-POP TERRESTRIAL CHANNELS
+## J-POP CHANNELS
 Channel Image | Channel Name
 -- | --
 <img width="372" height="211" alt="89" src="https://github.com/user-attachments/assets/58b2e55c-151f-4044-af92-7d0120517f1a" /> | **Morning Musume**
@@ -14,3 +14,4 @@ Channel Image | Channel Name
 <img width="311" height="174" alt="77" src="https://github.com/user-attachments/assets/75405d7a-5023-452c-9d48-3ad4b3540453" /> | **OCHA NORMA**
 <img width="512" height="288" alt="104" src="https://github.com/user-attachments/assets/7e8bb056-31fe-4814-92e3-915c59ae73b2" /> | **Lucky2**
 <img width="311" height="174" alt="88" src="https://github.com/user-attachments/assets/4f11db74-69be-47a3-8e6b-c795b759de6d" /> | **Rosy Chronicle**
+<img width="512" height="288" alt="114" src="https://github.com/user-attachments/assets/2aafbf37-d61a-4717-bc9e-4101266b1cd3" /> | **UP UP GIRLS**
