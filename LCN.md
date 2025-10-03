@@ -15,7 +15,7 @@ LCN | Name
 17 | TVRI Nasional
 18 | DAAI TV
 22 | Bali TV
-23 | Jatim TV
+23 | JTV
 25 | Animal Planet
 26 | Discovery Channel
 27 | TV5Monde Style
