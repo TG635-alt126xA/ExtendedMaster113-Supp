@@ -5,7 +5,7 @@
 Channel Image | Channel Name
 -- | --
 <img width="372" height="211" alt="89" src="https://github.com/user-attachments/assets/58b2e55c-151f-4044-af92-7d0120517f1a" /> | **Morning Musume**
-<img width="1440" height="860" alt="34" src="https://github.com/user-attachments/assets/d9676c99-0c77-4d10-b951-664484e2df0a" /> | ANGERME
+<img width="1440" height="860" alt="31" src="https://github.com/user-attachments/assets/d9676c99-0c77-4d10-b951-664484e2df0a" /> | ANGERME
 <img width="512" height="288" alt="40" src="https://github.com/user-attachments/assets/929b4191-cf0c-413b-b9e6-f7ff83a370fc" /> | **Momoiro Clover Z**
 <img width="311" height="174" alt="167" src="https://github.com/user-attachments/assets/36ff3d43-3181-4a92-a0f5-583649d532b4" /> | **Juice=Juice**
 <img width="311" height="174" alt="171" src="https://github.com/user-attachments/assets/82b42547-58c8-4042-a374-dbb720db36f5" /> | **Tsubaki Factory**
