@@ -1,16 +1,16 @@
 LCN | Name
 -- | --
-4 | Lejel Home Shopping
 5 | TV5Monde Asie
-7 | Metro TV
-8 | SCTV
-9 | Indosiar
-10 | Kompas TV
-11 | ANTV
-12 | Tritih Lor TV
-13 | tvOne
-14 | Global TV
-15 | BEYOOOOONDS
+6 | Metro TV
+7 | SCTV
+8 | Indosiar
+9 | RCTI
+10 | Global TV
+11 | BEYOOOOONDS
+12 | MNC TV
+13 | ANTV
+14 | tvOne
+15 | Kompas TV
 16 | NET TV/MDTV
 17 | TVRI Nasional
 18 | DAAI TV
