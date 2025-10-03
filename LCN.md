@@ -1,16 +1,16 @@
 LCN | Name
 -- | --
 5 | TV5Monde Asie
-6 | Metro TV
-7 | SCTV
-8 | Indosiar
-9 | RCTI
-10 | Global TV
+6 | CNA
+7 | Metro TV
+8 | tvOne
+9 | SCTV
+10 | Indosiar
 11 | BEYOOOOONDS
-12 | MNC TV
+12 | Global TV
 13 | ANTV
-14 | tvOne
-15 | Kompas TV
+14 | Kompas TV
+15 | RCTI
 16 | NET TV/MDTV
 17 | TVRI Nasional
 18 | DAAI TV
@@ -30,13 +30,16 @@ LCN | Name
 37 | Al Jazeera English
 38 | AniPlus
 39 | Animax
+40 | Momoiro Clover Z
 44 | Rock Action
 45 | Garuda TV
 53 | Bloomberg TV
+77 | OCHA NORMA
 87 | Trans TV
 88 | Rosy Chronicle
 89 | Morning Musume
 90 | Trans 7
+91 | MNC TV
 100 | K+
 101 | girls2
 102 | AXN
@@ -50,10 +53,12 @@ LCN | Name
 111 | MOJI TV
 112 | JakTV
 113 | Euronews
+114 | UP UP GIRLS
 115 | Nippon TV
 116 | SEA Today
 117 | CNN International
 118 | TVRI Sport
+164 | Tsubaki Factory
 165 | ONE
 166 | MGN
 167 | Juice=Juice
