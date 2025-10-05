@@ -28,7 +28,7 @@ LCN | Name
 70 | Jatim TV
 71 | Nusantara TV
 72 | Riau TV
-73 | SEA Today
+73 | KTV
 74 | IDTV/BeritaSatu
 75 | CNBC Indonesia
 76 | IDX Channel
@@ -38,8 +38,8 @@ LCN | Name
 80 | Kentang Singkong Bawang Channel
 81 | SinemArt
 82 | JPM TV
-83 | Garuda TV
-84 | Channel 84
+83 | SEA Today
+84 | Garuda TV
 87 | TIC
 101 | Morning Musume
 104 | ANGERME
