@@ -1,53 +1,36 @@
 LCN | Name
 -- | --
-45 | Channel 45
-46 | SEA Today
-47 | TIC
-48 | Magna TV
-49 | Indosiar
-50 | RCTI
-51 | SCTV
-52 | CNN Indonesia
-53 | ANTV
-54 | Reyvan Aprilian - EM113
-55 | tvOne
-56 | GTV
-57 | Metro TV
-58 | Kompas TV
-59 | iNews TV
-60 | NET./MDTV
-61 | BMS TV
+5 | Tawaf TV (DMI TV)
+6 | BTV
+7 | Metro TV
+8 | ANTV
+9 | SCTV
+10 | Indosiar
+11 | Trans TV
+12 | Trans7
+13 | RCTI
+14 | TVRI Nasional
+15 | DAAI TV
+16 | RTV
+17 | MNC TV
+18 | NET. (MDTV)
+19 | IDTV (BeritaSatu)
+20 | Bloomberg TV
+21 | Rodja TV
+22 | Salam TV
+41 | TRT World
+45 | Garuda TV
+51 | Krayu Channel
+52 | Global TV
+53 | imase
+54 | Kompas TV
+55 | Nippon TV
+56 | TV5MONDE ASIE
+57 | DW English
+60 | Euronews
+61 | Moji TV
 62 | Jak TV
-63 | MNC TV
-64 | TVRI Nasional
-65 | Moji TV
-66 | BTV
-67 | DAAI TV
-68 | RTV
-69 | Bali TV
-70 | Jatim TV
-71 | Nusantara TV
-72 | Riau TV
-73 | KTV
-74 | IDTV/BeritaSatu
-75 | CNBC Indonesia
-76 | IDX Channel
-77 | Viva Televisi
-78 | JITV
-79 | tvMu
-80 | girls2
-81 | SinemArt
-82 | JPM TV
-83 | Garuda TV
-88 | Trans 7
-89 | Trans TV
-101 | Morning Musume
-104 | ANGERME
-105 | Juice=Juice
-108 | Tsubaki Factory
-109 | BEYOOOOONDS
-110 | OCHA NORMA
-111 | Rosy Chronicle
-112 | UP UP GIRLS
-150 | Momoiro Clover Z
-153 | Lucky2/Laki
+63 | tvOne
+64 | Bali TV
+65 | Inews TV
+66 | Daystar TV
