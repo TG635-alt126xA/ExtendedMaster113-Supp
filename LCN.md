@@ -14,16 +14,14 @@ LCN | Name
 12 | BEYOOOOONDS
 13 | Kompas TV
 14 | Metro TV
-15 | Moji TV
+15 | BTV
 16 | TVRI Nasional
 17 | DAAI TV
 18 | MDTV
-19 | Ryukent19
+19 | Jak TV
 20 | JTV
-21 | BTV
-22 | RTV
-23 | MNCTV
-24 | iNews
+21 | Moji TV
+22 | MNCTV
 45 | Garuda TV
 76 | Tsubaki Factory
 77 | Rosy Chronicle
@@ -32,8 +30,9 @@ LCN | Name
 80 | Morning Musume
 81 | ANGERME
 83 | Juice=Juice
+85 | iNews
 100 | Momoiro Clover Z
 101 | girls2
 104 | Lucky2/Laki
 105 | DMI TV
-112 | Jak TV
+200 | RTV
