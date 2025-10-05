@@ -1,9 +1,9 @@
 LCN | Name
 -- | --
-5 | Nippon TV
-46 | Trans TV
-47 | Trans 7
-48 | JKT48 TV
+45 | Channel 45
+46 | SEA Today
+47 | TIC
+48 | Magna TV
 49 | Indosiar
 50 | RCTI
 51 | SCTV
@@ -35,12 +35,12 @@ LCN | Name
 77 | Viva Televisi
 78 | JITV
 79 | tvMu
-80 | Kentang Singkong Bawang Channel
+80 | girls2
 81 | SinemArt
 82 | JPM TV
-83 | SEA Today
-84 | Garuda TV
-87 | TIC
+83 | Garuda TV
+88 | Trans 7
+89 | Trans TV
 101 | Morning Musume
 104 | ANGERME
 105 | Juice=Juice
@@ -50,5 +50,4 @@ LCN | Name
 111 | Rosy Chronicle
 112 | UP UP GIRLS
 150 | Momoiro Clover Z
-152 | girls2
 153 | Lucky2/Laki
