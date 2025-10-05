@@ -1,43 +1,54 @@
 LCN | Name
 -- | --
-1 | UP UP GIRLS
-48 | NET./MDTV
+5 | Nippon TV
+46 | Trans TV
+47 | Trans 7
+48 | JKT48 TV
 49 | Indosiar
 50 | RCTI
 51 | SCTV
-52 | Metro TV
+52 | CNN Indonesia
 53 | ANTV
-54 | Trans TV
+54 | Reyvan Aprilian - EM113
 55 | tvOne
 56 | GTV
-57 | Trans7
+57 | Metro TV
 58 | Kompas TV
-59 | TVRI Nasional
-60 | MNC TV
-61 | Nippon TV
+59 | iNews TV
+60 | NET./MDTV
+61 | BMS TV
 62 | Jak TV
-63 | Tabalong TV
-64 | Bali TV
-65 | Jatim TV
-66 | Bandung TV
-67 | BMS TV
-68 | Kilisuci TV
-69 | Morning Musume
-72 | ANGERME
-73 | Momoiro Clover Z
-74 | Juice=Juice
-75 | girls2
-76 | Lucky2/Laki
-77 | Tsubaki Factory
-78 | BEYOOOOONDS
-79 | OCHA NORMA
-80 | Nusantara TV
-81 | BTV
-82 | RTV
-83 | DAAI TV
-84 | IDTV/BeritaSatu
-85 | Garuda TV
-86 | IDX Channel
-87 | Reyvan Aprilian - EM113
-88 | SEA Today
-89 | Rosy Chronicle
+63 | MNC TV
+64 | TVRI Nasional
+65 | Moji TV
+66 | BTV
+67 | DAAI TV
+68 | RTV
+69 | Bali TV
+70 | Jatim TV
+71 | Nusantara TV
+72 | Riau TV
+73 | SEA Today
+74 | IDTV/BeritaSatu
+75 | CNBC Indonesia
+76 | IDX Channel
+77 | Viva Televisi
+78 | JITV
+79 | tvMu
+80 | Kentang Singkong Bawang Channel
+81 | SinemArt
+82 | JPM TV
+83 | Garuda TV
+84 | Channel 84
+87 | TIC
+101 | Morning Musume
+104 | ANGERME
+105 | Juice=Juice
+108 | Tsubaki Factory
+109 | BEYOOOOONDS
+110 | OCHA NORMA
+111 | Rosy Chronicle
+112 | UP UP GIRLS
+150 | Momoiro Clover Z
+152 | girls2
+153 | Lucky2/Laki
