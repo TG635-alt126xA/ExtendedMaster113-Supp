@@ -11,7 +11,7 @@
 ## International
 ![DW English](https://github.com/user-attachments/assets/b00cee4e-0ffa-460d-bc56-ab601edcb794)
 ![Arirang TV](https://github.com/user-attachments/assets/2dc15976-492e-4a1a-9108-e3c87684263a)
-<img width="512" height="288" alt="Nippon TV" src="https://github.com/user-attachments/assets/7aa73e68-23d9-4809-a808-f24ed24d03c9" />
+<img width="512" height="288" alt="Nippon TV" src="https://github.com/user-attachments/assets/72f5a6cd-1361-43a4-80c5-29f9c37bac86" />
 
 ## News
 <img width="512" height="288" alt="Euronews" src="https://github.com/user-attachments/assets/e0a7d688-0edf-4f30-b89e-8ea61344d5e3" />
