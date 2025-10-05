@@ -1,13 +1,15 @@
 LCN | Name
 -- | --
 1 | UP UP GIRLS
-13 | BEYOOOOONDS
-74 | girls2
-75 | Lucky2/Laki
-76 | Tsubaki Factory
-77 | Rosy Chronicle
-78 | OCHA NORMA
-80 | Morning Musume
-81 | ANGERME
-82 | Momoiro Clover Z
-83 | Juice=Juice
+64 | Bali TV
+65 | JTV
+68 | Rosy Chronicle
+69 | Morning Musume
+72 | ANGERME
+73 | Momoiro Clover Z
+74 | Juice=Juice
+75 | girls2
+76 | Lucky2/Laki
+77 | Tsubaki Factory
+78 | BEYOOOOONDS
+79 | OCHA NORMA
