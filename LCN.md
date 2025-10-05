@@ -3,36 +3,31 @@ LCN | Name
 1 | UP UP GIRLS
 2 | Trans TV
 3 | Trans 7
-4 | Bali TV
+4 | MNCTV
 5 | Indosiar
 6 | RCTI
 7 | SCTV
-8 | ANTV
-9 | Reyvan Aprilian - EM113
-10 | tvOne
-11 | Global TV
-12 | BEYOOOOONDS
-13 | Kompas TV
-14 | Metro TV
-15 | BTV
+8 | BTV
+9 | ANTV
+10 | Reyvan Aprilian - EM113
+11 | tvOne
+12 | Global TV
+13 | BEYOOOOONDS
+14 | Kompas TV
+15 | Metro TV
 16 | TVRI Nasional
-17 | DAAI TV
-18 | MDTV
-19 | Jak TV
-20 | JTV
+17 | MDTV
+18 | RTV
 21 | Moji TV
-22 | MNCTV
+23 | BeritaSatu
+24 | DAAI TV
 45 | Garuda TV
+74 | girls2
+75 | Lucky2/Laki
 76 | Tsubaki Factory
 77 | Rosy Chronicle
 78 | OCHA NORMA
-79 | BeritaSatu
 80 | Morning Musume
 81 | ANGERME
+82 | Momoiro Clover Z
 83 | Juice=Juice
-85 | iNews
-100 | Momoiro Clover Z
-101 | girls2
-104 | Lucky2/Laki
-105 | DMI TV
-200 | RTV
