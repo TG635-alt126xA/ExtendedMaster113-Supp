@@ -1,5 +1,7 @@
 LCN | Name
 -- | --
+2 | Trans TV
+3 | Trans 7
 4 | Lejel HS
 5 | S-GEM
 7 | BMS TV
@@ -21,14 +23,15 @@ LCN | Name
 30 | Zee Bioskop (Z Bioskop)
 31 | Fashion TV
 35 | Gembilang TV
-36 | Trans7
+36 | TVRI Nasional
 37 | Animax
 38 | Al Jazeera English
-39 | TVRI Nasional
+39 | Rock Entertainment
 40 | i-dle\*
 41 | TRT World
 42 | Salam TV
 43 | Residence Info
+44 | Rock Action
 47 | Quran TV
 48 | Sunna TV
 60 | TV5MONDE ASIE
@@ -39,7 +42,6 @@ LCN | Name
 65 | Inews TV
 80 | BTV
 81 | DW English
-87 | Trans TV
 88 | tvN
 89 | tvN Movies
 100 | Nusantara TV
