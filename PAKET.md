@@ -1,42 +1,41 @@
 ## Paket Basic
 ### TV Channels
 #### Local
-* SCTV
-* Indosiar
-* RCTI
-* Moji TV
-* tvOne
-* Kompas TV (FTA)
+* Metro TV
 * BTV
 * BeritaSatu (FTA)
-* Metro TV
-* ANTV
-* Trans TV
-* Trans 7
-* DAAI TV
-* MNC TV
-* Jak TV (FTA)
-* Global TV
+* Garuda TV (FTA)
 * MDTV
 * RTV (FTA)
-* Elshinta TV
-* Nusantara TV
+* SCTV
+* Trans 7
+* Trans TV
 * TVRI Nasional (FTA)
-* jitv
-* KTV
-* JPM
-* Garuda TV (FTA)
-* Magna Channel
-* BN Channel
+* Jak TV (FTA)
+* Rodja TV
+* Moji TV
 * DMI TV (FTA)
-* Jakarta Globe
+* DAAI TV
+* tvOne
+* Nusantara TV
+* ANTV
+* Indosiar
+* JPM
 #### International
 * DW English
+* Arirang TV
+* TV5MONDE ASIE
 * Nippon TV (FTA)
 #### News
+* Kompas TV (FTA)
 * iNews TV
+* Al Jazeera English
 * Euronews (FTA)
 * BBC News
+#### Entertainment
+* UP UP GIRLS
+* Elshinta TV
+* Magna TV
 #### Kids
 * Mentari TV
 * VTV
