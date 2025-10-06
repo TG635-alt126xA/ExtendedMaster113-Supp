@@ -1,57 +1,56 @@
 LCN | Name
 -- | --
-2 | Trans TV
-3 | Trans 7
-4 | Lejel HS
-5 | S-GEM
-7 | BMS TV
-8 | SCTV
-9 | Indosiar
-10 | ANTV
-11 | Tabalong
-12 | tvOne
-13 | Bloomberg TV
-14 | Metro TV
-15 | NET. (MDTV)
+1 | AXN
+2 | Rock Entertainment
+3 | Rock Action
+4 | RCTI
+5 | GEM (inactive)
+6 | MNCTV
+7 | TVRI Nasional
+8 | AFN
+9 | SCTV
+10 | Indosiar
+11 | ANTV
+12 | i-dle*
+13 | tvOne
+14 | GTV
+15 | Metro TV
 16 | Kompas TV
-17 | Garuda TV
-18 | S-ONE
-26 | Moji TV
-27 | DAAI TV
-28 | AFN
-29 | EWTN
-30 | Zee Bioskop (Z Bioskop)
-31 | Fashion TV
-35 | Gembilang TV
-36 | TVRI Nasional
-37 | Animax
-38 | Al Jazeera English
-39 | Rock Entertainment
-40 | i-dle\*
+17 | DAAI TV
+18 | MDTV
+19 | Animax
+35 | Moji TV
+37 | VTV
+38 | Nusantara TV
+40 | CNA
 41 | TRT World
-42 | Salam TV
-43 | Residence Info
-44 | Rock Action
-47 | Quran TV
-48 | Sunna TV
+43 | Hotel/Residence Info
+55 | ONE
+58 | tvN
 60 | TV5MONDE ASIE
 61 | Nippon TV
-62 | Madu TV
-63 | AXN
-64 | Bali TV
-65 | Inews TV
+62 | KBS Korea
 80 | BTV
 81 | DW English
-88 | tvN
-89 | tvN Movies
-100 | Nusantara TV
-105 | Tawaf TV (DMI TV)
-106 | Daystar TV
-111 | Rodja TV
+86 | Daystar TV
+87 | Trans TV
+88 | Sunna TV
+90 | Trans 7
+91 | Fashion TV
+92 | Bloomberg TV
+93 | Quran TV
+96 | Al Jazeera English
+97 | Al Jazeera Arabic
+111 | Asmara Gen Z
 112 | Jak TV
 113 | Euronews
-114 | Lucky² (Laki)
-131 | IDTV (BeritaSatu)
-132 | DIM TV
+115 | tvN Movies
+122 | Magna Channel
+128 | CNN International
+130 | Z Bioskop
 134 | girls²
-200 | RTV
+135 | Laki
+141 | CNBC Asia
+144 | RT
+171 | Kids TV
+173 | Cartoon Network
