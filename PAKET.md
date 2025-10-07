@@ -6,6 +6,8 @@
 * HBO Hits HD
 * HBO Signature HD
 * EM113 Indonesia Channel
+* Trans TV
+* Trans 7
 * BTV
 * Metro TV
 * tvOne
@@ -17,13 +19,11 @@
 * TVRI Sport HD
 * TVRI Nasional (FTA)
 * CGTN Documentary HD
-* SCTV
-* Trans 7
-* Trans TV
 * Indosiar
+* RCTI
+* SCTV
 * ANTV
-* Vit
-* Kagome
+* Basuri TV
 * BEYOOOOONDS
 * Global TV
 * NET./MDTV
@@ -38,7 +38,9 @@
 * QWER TV
 * Bandung TV
 * Kebumen TV
-* Ubi Kayu TV
+* Tabalong TV
+* MNC TV
+* Talas TV
 * Pisang TV
 * Moji TV
 * BMS TV
