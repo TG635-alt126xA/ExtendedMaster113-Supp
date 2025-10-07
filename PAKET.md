@@ -1,152 +1,125 @@
 ## Paket Basic
-### TV Channels
-#### Local
-* EM113 Info
-* IDX Channel HD
-* NET./MDTV HD
-* CNN Indonesia HD
-* Metro TV HD
+### Channels
+* HBO HD
+* Cinemax HD
+* HBO Family HD
+* HBO Hits HD
+* HBO Signature HD
+* EM113 Indonesia Channel
+* BTV
+* Metro TV
+* tvOne
 * Kompas TV (FTA)
-* Tabalong TV
+* Inews TV
+* DW English HD
+* Arirang TV HD
+* CNA HD
+* TVRI Sport HD
 * TVRI Nasional (FTA)
-* MNC TV HD
-* Indosiar HD
-* RCTI HD
-* SCTV HD
-* Trans 7 HD
-* Trans TV HD
-* Vit Kagome
-* Global TV HD
-* ANTV HD
-* tvOne HD
+* CGTN Documentary HD
+* SCTV
+* Trans 7
+* Trans TV
+* Indosiar
+* ANTV
+* Vit
+* Kagome
+* BEYOOOOONDS
+* Global TV
+* NET./MDTV
 * RTV (FTA)
+* TRT World HD
 * JTV
 * Jak TV (FTA)
-* Moji TV
-* Tawaf TV/DMI TV (FTA)
-* DAAI TV
-* BTV
-* IDTV/BeritaSatu HD (FTA)
+* Quran TV
+* Salam TV
+* Rodja TV
 * Bali TV
-* jitv HD (via Magna Channel Yogyakarta)
+* QWER TV
+* Bandung TV
+* Kebumen TV
+* Ubi Kayu TV
+* Pisang TV
+* Moji TV
+* BMS TV
+* Fashion TV
+* Warner TV
+* Tawaf TV/DMI TV (FTA)
+* U Channel TV
+* DAAI TV
+* Al Jazeera English HD
+* OMAKE CHANNEL
+* mailerdiablo
+* Euronews
+* TV5MONDE ASIE
+* France 24 English HD
+* CGTN HD
+* Morning Musume
+* IDTV/BeritaSatu (FTA)
+* Mentari TV
+* VTV
+* jitv (via Magna Channel Yogyakarta)
 * Komando TV
 * Jawa Pos TV
-* Garuda TV HD (FTA)
+* Nippon TV (FTA)
 * Elshinta TV
 * Magna Channel
 * BN Channel
-* Jakarta Globe
-#### International
-* France 24 English HD
-* Arirang TV HD
-* CCTV 4
-* VOA TV (inactive)
-* CETV 1
-* CGTN Documentary HD
-* TV5MONDE ASIE
-* Nippon TV (FTA)
-* KBS Korea
-* TF1
-#### Lifestyle
-* OMAKE CHANNEL
-* Fashion TV
-* AFN
-* BBC Lifestyle
-#### News
-* iNews TV
-* Al Jazeera English HD
-* TIC (inactive)
-* CNA HD
-* DW English HD
-* Euronews (FTA)
-* CGTN HD
-* TVBS News
-* CNBC Indonesia HD
-* Sindonews TV
+* Garuda TV (FTA)
+* TvMu
 * Bloomberg TV HD
-* Russia Today HD
-* TRT World HD
 * CNBC Asia
+* IDX Channel
+* Jakarta Globe
+* Anton V.
+* AFN
+* CNN International HD
+* Daystar TV
 * ABC Australia HD
-* Nusantara TV HD
+* Nusantara TV
 * NHK World HD
 * BBC News HD
-* CBS News
-* CNN International HD
-#### Entertainment
-* CDI
-* Channel Jowo
-* Syfy USA
-* imase
-* Juice=Juice
-* tvN
-* MTV Live HD
-* V Channel China
-* Limista JP
-* FOX JP
-* Warner TV
-* Lifetime
-* Rock Entertainment
-* Rock Action
-* girls2
-* Laki
-* Morning Musume
-* UP UP GIRLS
-### HBO
-* HBO
-* HBO Hits
-* HBO Family
-* HBO Signature
-* Cinemax
-#### Movies
-* InPlus Pakistan
-* Super Drama TV
-* Lotus Macau
-* Xingkong China
-* tvN Movies
-* Zee Bioskop/Z Bioskop
-* Studio Universal
-#### Kids
-* Kids TV HD
-* Mentari TV HD
-* VTV HD (moved from Local)
 * Cartoon Network HD
 * Nick Jr. HD
 * Nickelodeon HD
+* KBS Korea HD
+* K+ HD
+* tvN Movies HD
+* tvN HD
+* Super Drama TV
+* Zee Bioskop/Z Bioskop
+* MTV Live HD
+* V Channel China
+* Lifetime
+* Rock Entertainment
+* InPlus Pakistan
+* Rock Action
+* girls2
+* Laki
 * Planet Fun
+* UP UP GIRLS
+* Lotus Macau
+* Xingkong China
 * DEI KIDS TV
 * Kids Zone TV
 * Ryukent19
-* GaruGaku.
+* Studio Universal
+* Discovery HD
+* Animal Planet HD
 * Kids Station HD
-* AniPlus
+* AniPlus HD
 * EBS Kids
-* Disney Junior JP
 * SpaceToon
 * Dreamworks HD
-* JIAJIA Cartoon
-* Kartoon Channel
-* ToonMax (inactive)
-* Youman Cartoon
-#### Knowledge
-* Discovery HD
 * Discovery Asia HD
-* Animal Planet HD
+* Kartoon Channel HD
 * History HD
 * BBC Earth HD
 * Love Nature 4K
 * Crime+Investigation HD
-* Outdoor Channel HD
-#### Religion
-* Daystar TV
-* Salam TV
-* Rodja TV
-* Quran TV
-* U-Channel TV
-* GMS Channel
-* Hope Channel
-* TvMu
-#### Sports
-* TVRI Sport HD
 * Eurosport HD
+* Outdoor Channel HD
 * A-Sports HD
+* Nanchatte Renai
+* SPOTV HD
+* SPOTV 2 HD
