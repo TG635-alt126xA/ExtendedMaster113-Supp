@@ -22,7 +22,7 @@
 * Genflix
 ## Stream+ Pack
 ### Streaming
-) All Streaming (from Stream Pack)
+> All Streaming (from Stream Pack)
 * Bstation
 ### Inhouse
 * SNSD TV
