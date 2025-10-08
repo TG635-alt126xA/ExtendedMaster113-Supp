@@ -2,6 +2,7 @@
 ![MDTV](https://github.com/user-attachments/assets/e290bad4-a945-439a-9f23-7e23c91665c1)
 <img width="512" height="288" alt="TVRI Nasional" src="https://github.com/user-attachments/assets/e461b408-a7a2-446c-9580-cff16dfca394" />
 
+![Trans TV](https://github.com/user-attachments/assets/006eff66-e789-4a20-8318-dd1821d145d0)
 ![Trans 7](https://github.com/user-attachments/assets/4f8d5ba3-990b-4622-b87e-e2f25aedd704)
 <img width="512" height="288" alt="Kompas TV" src="https://github.com/user-attachments/assets/e33bd3fe-160e-4ba9-9394-ba12631648f5" />
 
