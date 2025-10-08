@@ -54,15 +54,15 @@
 * Mentari TV
 * Moonbug TV
 ### Local
-* EM113 Indonesia Channel 2K
-* IDX Channel HD
+* EM113 Indonesia Channel
+* IDX Channel
 * NET./MDTV (FTA)
 * Indosiar
 * TVRI Nasional (FTA)
 * SCTV
 * Metro TV
 * ANTV
-* Trans TV
+* Trans TV (FTA)
 * tvOne
 * RCTI
 * Global TV
@@ -107,7 +107,7 @@
 * Quran TV
 * TvMu HD
 ### News
-* Inews TV HD
+* Inews TV
 * CNN International HD
 * Al Jazeera English
 * Euronews (FTA)
