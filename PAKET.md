@@ -10,14 +10,14 @@
 * Indosiar
 * RCTI
 * SCTV
-* Metro TV
-* tvOne
 * ANTV
 * Trans TV
 * Reyvan Aprilian - EM113
 * Global TV
 * Trans 7
 * Kompas TV (FTA)
+* Metro TV
+* tvOne
 * NET./MDTV
 * RTV (FTA)
 * Inews TV
