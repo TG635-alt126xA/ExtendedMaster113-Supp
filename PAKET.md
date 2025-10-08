@@ -8,7 +8,7 @@
 ### Local
 * Trans TV
 * Trans 7
-* IDX Channel
+* Bali TV
 * Indosiar
 * RCTI
 * SCTV
@@ -20,10 +20,8 @@
 * Kompas TV (FTA)
 * NET./MDTV
 * RTV (FTA)
-* Inews TV
-* TVRI Nasional (FTA)
 * MNC TV
-* Bali TV
+* TVRI Nasional (FTA)
 * JTV
 * Jak TV (FTA)
 * Salam TV
@@ -44,3 +42,7 @@
 * Magna Channel
 * BN Channel
 * Jakarta Globe
+### News
+* Inews TV
+* IDX Channel
+* Euronews (FTA)
