@@ -6,18 +6,18 @@
 * HBO Hits HD
 * HBO Signature HD
 ### Local
+* Trans TV
+* Trans 7
 * IDX Channel
 * Indosiar
 * RCTI
 * SCTV
 * ANTV
-* Trans TV
 * Reyvan Aprilian - EM113
-* Global TV
-* Trans 7
-* Kompas TV (FTA)
-* Metro TV
 * tvOne
+* Global TV
+* Metro TV
+* Kompas TV (FTA)
 * NET./MDTV
 * RTV (FTA)
 * Inews TV
