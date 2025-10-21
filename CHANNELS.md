@@ -1,25 +1,9 @@
-LCN | | Channel Name
--- | -- | --
-200 | ![RTV-Landscape-1-qv7aoanovvxrqmjeurom53s1gjo35d3vkkh4zrj4lq](https://github.com/user-attachments/assets/a93d53f1-d5aa-4d93-a9d1-a6333ab649cb) | RTV
-409 | ![17599951384144548588848957860197](https://github.com/user-attachments/assets/714b3be5-0270-48ba-8031-afea79951b6c) | Euronews
-457 | <img width="512" height="288" alt="Nittere" src="https://github.com/user-attachments/assets/4109cbf1-70ec-4cea-bd21-1f10ee7a76ab" /> | Nippon TV
-458 | <img width="564" height="318" alt="alt_tv-tokyo" src="https://github.com/user-attachments/assets/4fdbeaae-5283-4197-832d-cefecb930f21" /> | TV Tokyo
-517 | <img width="2560" height="1440" alt="45" src="https://live.staticflickr.com/5301/5639968535_7d4c7787a4_b.jpg" /> | momocloTV
-518 | <img width="1200" height="630" alt="ogp_imase" src="https://github.com/user-attachments/assets/4ab7abb5-b321-4c2d-9742-efa39bd9c47b" /> | imase
-752 | ![17599954575321333980611172078869](https://github.com/user-attachments/assets/9f91fc99-3c63-4af0-b6aa-99dc3ec31d3f) | Metro TV
-754 | ![17599957379254883877874042447063](https://github.com/user-attachments/assets/d0502def-7c71-4f2f-949a-d2c95fab17c9) | Trans TV
-755 | ![17599956674764100393054087967333](https://github.com/user-attachments/assets/58928db7-fa31-4865-b4b6-e08a2e826af0) | Trans 7
-756 | ![17599969672604802777707787137312](https://github.com/user-attachments/assets/76837036-a91d-4231-9796-f64a81d765dd) | MDTV
-757 | ![17599928881942608364968172453826](https://github.com/user-attachments/assets/53838ee8-52a9-4f3c-9a08-94a8fc330815) | TVRI Nasional
-758 | ![17599955226465034670870824863187](https://github.com/user-attachments/assets/8aa8f66a-b3fc-4615-9d72-a5a04a3912b6) | SCTV
-759 | ![17599955339831301243287234329746](https://github.com/user-attachments/assets/57449bdb-f2d0-4995-969f-3816e4a27ec7) | Indosiar
-760 | <img width="512" height="288" alt="Tak berjudul813_20251005115007" src="https://github.com/user-attachments/assets/af81c568-eb50-48de-83e5-c6f88de366a7" /> | Kompas TV
-762 | ![17599929611168500078813539803629](https://github.com/user-attachments/assets/c49a2918-1f1d-4065-ab13-fca10c8998e7) | Jak TV
-763 | <img width="416" height="234" alt="17599929440359074540369328303901" src="https://github.com/user-attachments/assets/9b02ee1d-ec04-4a2b-aedc-527494b6fe40" /> | BTV
-765 | <img width="512" height="288" alt="Tak berjudul813_20251002203722" src="https://github.com/user-attachments/assets/6b7a95df-eeb7-42ab-b15c-632214d8daaa" /> | DMI TV
-768 | ![1759995792630267845897830883480](https://github.com/user-attachments/assets/94a4e4ad-5540-4db7-bb95-049bfc7c1515) | DAAI TV
-770 | ![17599987020591240211629189097715](https://github.com/user-attachments/assets/02327d00-14e9-4e6f-9145-62c8aabac0c0) | JTV
-771 | <img width="512" height="288" alt="Tak berjudul813_20250924101929" src="https://github.com/user-attachments/assets/2b6ff91d-424f-409a-8a34-32708fff2555" /> | Bali TV
-772 | ![17599961720074387857048533692740](https://github.com/user-attachments/assets/87613d7b-4ffd-457a-a859-b5b774a5acca) | Moji TV
-773 | <img width="512" height="287" alt="Tak berjudul813_20250923035106" src="https://github.com/user-attachments/assets/8558d1c7-f89b-4d2f-b7c2-e4040ffc7041" /> | BeritaSatu
-774 | <img width="512" height="288" alt="Tak berjudul813_20250925161356" src="https://github.com/user-attachments/assets/82467f97-5df5-42d0-828b-9f8dfb5aa9fb" /> | Garuda TV
+![Momoclo Title Arrow](https://github.com/TG635-alt126xA/ExtendedMaster113/raw/refs/heads/main/assets/title_arrow.png) | ![Momoclo Title Arrow](https://github.com/TG635-alt126xA/ExtendedMaster113/raw/refs/heads/main/assets/title_arrow.png)
+-- | --
+<img width="512" height="288" alt="Tak berjudul824_20251022022825" src="https://github.com/user-attachments/assets/96b2f8fc-5051-4af4-8598-bcc2b6726ddd" /> | <img width="512" height="287" alt="Tak berjudul813_20250923035106" src="https://github.com/user-attachments/assets/469d7c99-9539-4690-8d52-2b5bf61083af" />
+![17610749647487325330467339532511](https://github.com/user-attachments/assets/25625b79-75d7-4d42-8c89-c979d97cc5ce) | ![1761074492789326435275790275824](https://github.com/user-attachments/assets/b2965ab6-a08c-475d-813b-31cadcda392e)
+<img width="416" height="234" alt="17610761198855908708028686826118" src="https://github.com/user-attachments/assets/0786b735-d0eb-43df-a863-85f8e949f25f" /> | <img width="416" height="234" alt="17610762038051001090281952047775" src="https://github.com/user-attachments/assets/11cee55a-9a22-4fcc-b886-2c89d57fa3cc" />
+![17610763349332503408341068659090](https://github.com/user-attachments/assets/4c828a61-98a8-4144-8e59-970b067b351f) | ![2021020738773645](https://github.com/user-attachments/assets/cacf4eea-64c8-468c-87e2-2f1b11a17ee5)
+![17610763617972250644752677650906](https://github.com/user-attachments/assets/18d8af9b-7486-429f-9ec0-310af869e147) | <img width="512" height="288" alt="Nittere" src="https://github.com/user-attachments/assets/4109cbf1-70ec-4cea-bd21-1f10ee7a76ab" />
+<img width="416" height="234" alt="video-thumbnail" src="https://github.com/user-attachments/assets/65e55eb1-50f5-4571-8278-5184d56ef468" /> | ![17599951384144548588848957860197](https://github.com/user-attachments/assets/714b3be5-0270-48ba-8031-afea79951b6c)
+<img width="416" height="234" alt="17610768801221463881941461195141" src="https://github.com/user-attachments/assets/69fecac7-374e-4319-a942-1fd31d65cbf7" /> | <img width="512" height="288" alt="45" src="https://live.staticflickr.com/5301/5639968535_7d4c7787a4_b.jpg" />
